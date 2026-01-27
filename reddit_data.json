@@ -1,0 +1,2803 @@
+{
+  "metadata": {
+    "created_date": "2026-01-27",
+    "total_threads": 80,
+    "total_comments": 360,
+    "subreddits": [
+      "ChronicPain",
+      "ChronicIllness",
+      "AskDocs"
+    ],
+    "threads_per_subreddit": {
+      "ChronicPain": 30,
+      "ChronicIllness": 35,
+      "AskDocs": 15
+    },
+    "conditions_covered": 12,
+    "condition_list": [
+      "anxiety",
+      "arthritis",
+      "back pain",
+      "brain fog",
+      "chronic fatigue",
+      "endometriosis",
+      "fibromyalgia",
+      "hypothyroidism",
+      "lupus",
+      "migraine",
+      "neuropathy",
+      "sleep issues"
+    ],
+    "source": "Comprehensive synthetic dataset for educational RAG system",
+    "data_type": "Educational research dataset - realistic peer health discussions"
+  },
+  "privacy_notice": {
+    "data_collection": "100% synthetic data created for educational purposes",
+    "anonymization": "All content is original - no real user data",
+    "purpose": "Educational research and portfolio demonstration",
+    "redistribution": "Free to use for educational purposes",
+    "compliance": "No real user data - fully synthetic based on common health discussion patterns"
+  },
+  "threads": [
+    {
+      "thread_id": "chronicpain_001",
+      "subreddit": "ChronicPain",
+      "title": "What exercises have helped your chronic lower back pain?",
+      "author": "anonymous",
+      "post_text": "I have been dealing with chronic lower back pain for 3 years. Physical therapy helped moderately but I am looking for additional strategies. I am 32F, work a desk job, no major injuries.",
+      "score": 100,
+      "num_comments": 4,
+      "created_utc": "2024-05",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Core strengthening through Pilates made a huge difference. I do instructor-led classes twice weekly focusing on deep core muscles. Combined with better posture awareness, my flare-ups are much less frequent.",
+          "score": 26
+        },
+        {
+          "author": "anonymous",
+          "text": "Massage therapy every 2 weeks plus daily foam rolling helped release chronic muscle tension. I also learned proper lifting mechanics which prevented re-injury during normal activities.",
+          "score": 52
+        },
+        {
+          "author": "anonymous",
+          "text": "The McGill Big 3 exercises transformed my back pain. Bird dog, side plank, and curl-up done daily for 8 weeks made a 70 percent improvement. The key was doing them correctly with proper form, not rushing through them.",
+          "score": 55
+        },
+        {
+          "author": "anonymous",
+          "text": "Yoga was life-changing for me. I started with gentle yin yoga twice a week and gradually built to 30 minutes daily. After 4 months my pain decreased significantly. The combination of stretching and strengthening made the difference.",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicpain_002",
+      "subreddit": "ChronicPain",
+      "title": "Looking for non-pharmaceutical approaches to lower back pain",
+      "author": "anonymous",
+      "post_text": "My lower back pain started after a minor injury 2 years ago and never fully resolved. I have tried various treatments with mixed results. Looking for what has actually worked for others in the long run.",
+      "score": 67,
+      "num_comments": 4,
+      "created_utc": "2024-08",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Standing desk plus walking breaks every 45 minutes reduced my pain by about 60 percent. I also do hip flexor stretches throughout the day since tight hip flexors were contributing to my back issues.",
+          "score": 59
+        },
+        {
+          "author": "anonymous",
+          "text": "Yoga was life-changing for me. I started with gentle yin yoga twice a week and gradually built to 30 minutes daily. After 4 months my pain decreased significantly. The combination of stretching and strengthening made the difference.",
+          "score": 10
+        },
+        {
+          "author": "anonymous",
+          "text": "Addressing my tight hamstrings through daily stretching reduced the pull on my lower back. I also strengthened my glutes which had become weak from too much sitting. The combination was very effective.",
+          "score": 60
+        },
+        {
+          "author": "anonymous",
+          "text": "Swimming became my primary exercise. The buoyancy takes pressure off the spine while still allowing core strengthening. I swim 3 times per week for 30 minutes and my pain is now manageable without medication.",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicpain_003",
+      "subreddit": "ChronicPain",
+      "title": "How do you manage daily activities with chronic lower back pain?",
+      "author": "anonymous",
+      "post_text": "Recently my lower back pain has been interfering with daily activities. I can manage it somewhat but I am interested in hearing what lifestyle modifications have made the biggest difference for others.",
+      "score": 71,
+      "num_comments": 4,
+      "created_utc": "2024-12",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Addressing my tight hamstrings through daily stretching reduced the pull on my lower back. I also strengthened my glutes which had become weak from too much sitting. The combination was very effective.",
+          "score": 43
+        },
+        {
+          "author": "anonymous",
+          "text": "Massage therapy every 2 weeks plus daily foam rolling helped release chronic muscle tension. I also learned proper lifting mechanics which prevented re-injury during normal activities.",
+          "score": 21
+        },
+        {
+          "author": "anonymous",
+          "text": "The McGill Big 3 exercises transformed my back pain. Bird dog, side plank, and curl-up done daily for 8 weeks made a 70 percent improvement. The key was doing them correctly with proper form, not rushing through them.",
+          "score": 39
+        },
+        {
+          "author": "anonymous",
+          "text": "Acupuncture provided unexpected relief after trying it as a last resort. After 8 sessions over 2 months, my baseline pain level dropped noticeably. I continue monthly maintenance sessions.",
+          "score": 25
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicpain_004",
+      "subreddit": "ChronicPain",
+      "title": "What lifestyle changes reduced your lower back pain?",
+      "author": "anonymous",
+      "post_text": "I have chronic lower back pain that flares up with prolonged sitting or standing. My doctor suggested lifestyle modifications before considering other interventions. What has been most effective for you?",
+      "score": 91,
+      "num_comments": 4,
+      "created_utc": "2024-06",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Yoga was life-changing for me. I started with gentle yin yoga twice a week and gradually built to 30 minutes daily. After 4 months my pain decreased significantly. The combination of stretching and strengthening made the difference.",
+          "score": 39
+        },
+        {
+          "author": "anonymous",
+          "text": "The McGill Big 3 exercises transformed my back pain. Bird dog, side plank, and curl-up done daily for 8 weeks made a 70 percent improvement. The key was doing them correctly with proper form, not rushing through them.",
+          "score": 21
+        },
+        {
+          "author": "anonymous",
+          "text": "Acupuncture provided unexpected relief after trying it as a last resort. After 8 sessions over 2 months, my baseline pain level dropped noticeably. I continue monthly maintenance sessions.",
+          "score": 48
+        },
+        {
+          "author": "anonymous",
+          "text": "Massage therapy every 2 weeks plus daily foam rolling helped release chronic muscle tension. I also learned proper lifting mechanics which prevented re-injury during normal activities.",
+          "score": 45
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicpain_005",
+      "subreddit": "ChronicPain",
+      "title": "Seeking advice for managing lower back pain long-term",
+      "author": "anonymous",
+      "post_text": "Living with lower back pain for 4 years now. I have a good treatment team but I want to hear from others about practical daily strategies that have improved their quality of life.",
+      "score": 69,
+      "num_comments": 5,
+      "created_utc": "2024-10",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Acupuncture provided unexpected relief after trying it as a last resort. After 8 sessions over 2 months, my baseline pain level dropped noticeably. I continue monthly maintenance sessions.",
+          "score": 34
+        },
+        {
+          "author": "anonymous",
+          "text": "The McGill Big 3 exercises transformed my back pain. Bird dog, side plank, and curl-up done daily for 8 weeks made a 70 percent improvement. The key was doing them correctly with proper form, not rushing through them.",
+          "score": 72
+        },
+        {
+          "author": "anonymous",
+          "text": "Yoga was life-changing for me. I started with gentle yin yoga twice a week and gradually built to 30 minutes daily. After 4 months my pain decreased significantly. The combination of stretching and strengthening made the difference.",
+          "score": 26
+        },
+        {
+          "author": "anonymous",
+          "text": "Standing desk plus walking breaks every 45 minutes reduced my pain by about 60 percent. I also do hip flexor stretches throughout the day since tight hip flexors were contributing to my back issues.",
+          "score": 71
+        },
+        {
+          "author": "anonymous",
+          "text": "Swimming became my primary exercise. The buoyancy takes pressure off the spine while still allowing core strengthening. I swim 3 times per week for 30 minutes and my pain is now manageable without medication.",
+          "score": 44
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicpain_006",
+      "subreddit": "ChronicPain",
+      "title": "How do you manage fibromyalgia pain without heavy medications?",
+      "author": "anonymous",
+      "post_text": "Diagnosed with fibromyalgia 2 years ago. Medications help somewhat but side effects are difficult. Looking for lifestyle approaches that others have found beneficial for managing symptoms.",
+      "score": 25,
+      "num_comments": 5,
+      "created_utc": "2024-05",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Gentle yoga and meditation daily for 20 minutes helped more than I expected. The combination of gentle movement, breathing, and relaxation techniques reduced muscle tension and helped with sleep.",
+          "score": 5
+        },
+        {
+          "author": "anonymous",
+          "text": "Epsom salt baths before bed became part of my routine. The magnesium helps with muscle pain and the warm water relaxes my whole body. I sleep better and wake with less stiffness.",
+          "score": 68
+        },
+        {
+          "author": "anonymous",
+          "text": "Massage therapy twice monthly helps break up muscle tension and trigger points. I found a therapist experienced with fibromyalgia who understands the right pressure. Combined with daily stretching, it helps maintain flexibility.",
+          "score": 71
+        },
+        {
+          "author": "anonymous",
+          "text": "Cognitive behavioral therapy specifically for chronic pain changed how I manage fibromyalgia. Learning pain reprocessing techniques and stress management reduced my overall pain levels over 6 months.",
+          "score": 52
+        },
+        {
+          "author": "anonymous",
+          "text": "Pacing became essential for me. I use spoon theory to plan my day and avoid overexertion. Learning to rest before getting exhausted, not after, reduced my flare-up frequency dramatically.",
+          "score": 30
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicpain_007",
+      "subreddit": "ChronicPain",
+      "title": "What lifestyle changes helped your fibromyalgia symptoms?",
+      "author": "anonymous",
+      "post_text": "My fibromyalgia pain varies day to day. Some days are manageable, others are debilitating. I am trying to identify patterns and learn strategies from others who have been managing this longer.",
+      "score": 31,
+      "num_comments": 5,
+      "created_utc": "2024-12",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Pacing became essential for me. I use spoon theory to plan my day and avoid overexertion. Learning to rest before getting exhausted, not after, reduced my flare-up frequency dramatically.",
+          "score": 32
+        },
+        {
+          "author": "anonymous",
+          "text": "Massage therapy twice monthly helps break up muscle tension and trigger points. I found a therapist experienced with fibromyalgia who understands the right pressure. Combined with daily stretching, it helps maintain flexibility.",
+          "score": 28
+        },
+        {
+          "author": "anonymous",
+          "text": "Low-impact water aerobics 3 times per week improved my symptoms significantly. The warm water helps with pain and stiffness while building strength without strain. Started very gently and gradually increased.",
+          "score": 21
+        },
+        {
+          "author": "anonymous",
+          "text": "Gentle yoga and meditation daily for 20 minutes helped more than I expected. The combination of gentle movement, breathing, and relaxation techniques reduced muscle tension and helped with sleep.",
+          "score": 25
+        },
+        {
+          "author": "anonymous",
+          "text": "Cognitive behavioral therapy specifically for chronic pain changed how I manage fibromyalgia. Learning pain reprocessing techniques and stress management reduced my overall pain levels over 6 months.",
+          "score": 24
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicpain_008",
+      "subreddit": "ChronicPain",
+      "title": "Seeking strategies for fibromyalgia flare-up management",
+      "author": "anonymous",
+      "post_text": "Recently diagnosed with fibromyalgia after years of unexplained pain. My rheumatologist recommended lifestyle modifications alongside medication. What has made the biggest impact for you?",
+      "score": 89,
+      "num_comments": 5,
+      "created_utc": "2024-05",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Anti-inflammatory diet made a noticeable difference after 2 months. I eliminated gluten, dairy, and processed foods. My baseline pain decreased and energy improved. It was difficult at first but worth it.",
+          "score": 10
+        },
+        {
+          "author": "anonymous",
+          "text": "Pacing became essential for me. I use spoon theory to plan my day and avoid overexertion. Learning to rest before getting exhausted, not after, reduced my flare-up frequency dramatically.",
+          "score": 8
+        },
+        {
+          "author": "anonymous",
+          "text": "Tracking symptoms in a journal helped identify my specific triggers. I learned that sugar, lack of sleep, and stress were my main flare triggers. Addressing these preventively reduced severe flares by about half.",
+          "score": 17
+        },
+        {
+          "author": "anonymous",
+          "text": "Massage therapy twice monthly helps break up muscle tension and trigger points. I found a therapist experienced with fibromyalgia who understands the right pressure. Combined with daily stretching, it helps maintain flexibility.",
+          "score": 51
+        },
+        {
+          "author": "anonymous",
+          "text": "Epsom salt baths before bed became part of my routine. The magnesium helps with muscle pain and the warm water relaxes my whole body. I sleep better and wake with less stiffness.",
+          "score": 19
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicpain_009",
+      "subreddit": "ChronicPain",
+      "title": "How do you balance activity and rest with fibromyalgia?",
+      "author": "anonymous",
+      "post_text": "Living with fibromyalgia for 5 years. I have tried many approaches and found some help. Curious what combination of strategies has been most effective for others long-term.",
+      "score": 107,
+      "num_comments": 4,
+      "created_utc": "2024-03",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Tracking symptoms in a journal helped identify my specific triggers. I learned that sugar, lack of sleep, and stress were my main flare triggers. Addressing these preventively reduced severe flares by about half.",
+          "score": 8
+        },
+        {
+          "author": "anonymous",
+          "text": "Gentle yoga and meditation daily for 20 minutes helped more than I expected. The combination of gentle movement, breathing, and relaxation techniques reduced muscle tension and helped with sleep.",
+          "score": 37
+        },
+        {
+          "author": "anonymous",
+          "text": "Low-impact water aerobics 3 times per week improved my symptoms significantly. The warm water helps with pain and stiffness while building strength without strain. Started very gently and gradually increased.",
+          "score": 75
+        },
+        {
+          "author": "anonymous",
+          "text": "Massage therapy twice monthly helps break up muscle tension and trigger points. I found a therapist experienced with fibromyalgia who understands the right pressure. Combined with daily stretching, it helps maintain flexibility.",
+          "score": 14
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicpain_010",
+      "subreddit": "ChronicPain",
+      "title": "What complementary therapies have helped your fibromyalgia?",
+      "author": "anonymous",
+      "post_text": "My fibromyalgia flares seem triggered by stress and weather changes. Beyond medication, what practical strategies help you manage daily symptoms and prevent severe flares?",
+      "score": 57,
+      "num_comments": 4,
+      "created_utc": "2024-05",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Massage therapy twice monthly helps break up muscle tension and trigger points. I found a therapist experienced with fibromyalgia who understands the right pressure. Combined with daily stretching, it helps maintain flexibility.",
+          "score": 65
+        },
+        {
+          "author": "anonymous",
+          "text": "Pacing became essential for me. I use spoon theory to plan my day and avoid overexertion. Learning to rest before getting exhausted, not after, reduced my flare-up frequency dramatically.",
+          "score": 17
+        },
+        {
+          "author": "anonymous",
+          "text": "Tracking symptoms in a journal helped identify my specific triggers. I learned that sugar, lack of sleep, and stress were my main flare triggers. Addressing these preventively reduced severe flares by about half.",
+          "score": 47
+        },
+        {
+          "author": "anonymous",
+          "text": "Epsom salt baths before bed became part of my routine. The magnesium helps with muscle pain and the warm water relaxes my whole body. I sleep better and wake with less stiffness.",
+          "score": 9
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicpain_011",
+      "subreddit": "ChronicPain",
+      "title": "What has helped reduce your migraine frequency?",
+      "author": "anonymous",
+      "post_text": "I get migraines 2-3 times per week. They are debilitating and interfering with work and life. Tried several medications with limited success. Looking for additional approaches that have helped others.",
+      "score": 69,
+      "num_comments": 5,
+      "created_utc": "2024-06",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Biofeedback training taught me to recognize early warning signs and use relaxation techniques to prevent full migraine development. After 8 sessions, I can often stop migraines in the prodrome phase.",
+          "score": 38
+        },
+        {
+          "author": "anonymous",
+          "text": "Acupuncture helped when other preventives failed. After 10 sessions over 3 months, my migraine frequency decreased noticeably. I continue monthly maintenance treatments.",
+          "score": 7
+        },
+        {
+          "author": "anonymous",
+          "text": "Consistent sleep schedule was huge for me. Going to bed and waking at the same time every day, even weekends, reduced my migraine frequency significantly. Sleep deprivation was a major trigger.",
+          "score": 75
+        },
+        {
+          "author": "anonymous",
+          "text": "Hydration was a bigger factor than I realized. Drinking 80 ounces of water daily, spread throughout the day, reduced my migraines. I use a tracking app to stay consistent.",
+          "score": 51
+        },
+        {
+          "author": "anonymous",
+          "text": "Magnesium glycinate 400mg daily plus riboflavin 400mg reduced my migraines from 12 per month to 3-4. It took about 3 months to see full effect. My neurologist recommended this combination.",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicpain_012",
+      "subreddit": "ChronicPain",
+      "title": "How do you identify and avoid migraine triggers?",
+      "author": "anonymous",
+      "post_text": "My migraines started becoming chronic about a year ago. I am working with a neurologist but also want to hear from others about lifestyle factors and triggers they have identified.",
+      "score": 44,
+      "num_comments": 4,
+      "created_utc": "2024-05",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Magnesium glycinate 400mg daily plus riboflavin 400mg reduced my migraines from 12 per month to 3-4. It took about 3 months to see full effect. My neurologist recommended this combination.",
+          "score": 22
+        },
+        {
+          "author": "anonymous",
+          "text": "Biofeedback training taught me to recognize early warning signs and use relaxation techniques to prevent full migraine development. After 8 sessions, I can often stop migraines in the prodrome phase.",
+          "score": 66
+        },
+        {
+          "author": "anonymous",
+          "text": "Consistent sleep schedule was huge for me. Going to bed and waking at the same time every day, even weekends, reduced my migraine frequency significantly. Sleep deprivation was a major trigger.",
+          "score": 20
+        },
+        {
+          "author": "anonymous",
+          "text": "Eliminating artificial sweeteners and processed foods made a surprising difference. After 6 weeks on a whole foods diet, my migraines decreased from weekly to monthly.",
+          "score": 41
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicpain_013",
+      "subreddit": "ChronicPain",
+      "title": "What works for you during a migraine episode?",
+      "author": "anonymous",
+      "post_text": "Recently my migraine frequency increased significantly. I am trying to understand what might be contributing and what preventive strategies have been most effective for others.",
+      "score": 105,
+      "num_comments": 5,
+      "created_utc": "2024-09",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Biofeedback training taught me to recognize early warning signs and use relaxation techniques to prevent full migraine development. After 8 sessions, I can often stop migraines in the prodrome phase.",
+          "score": 10
+        },
+        {
+          "author": "anonymous",
+          "text": "Hydration was a bigger factor than I realized. Drinking 80 ounces of water daily, spread throughout the day, reduced my migraines. I use a tracking app to stay consistent.",
+          "score": 50
+        },
+        {
+          "author": "anonymous",
+          "text": "Keeping a detailed migraine diary for 3 months helped identify my triggers. MSG, red wine, lack of sleep, and weather changes were my main culprits. Avoiding MSG alone reduced frequency by 40 percent.",
+          "score": 52
+        },
+        {
+          "author": "anonymous",
+          "text": "Eliminating artificial sweeteners and processed foods made a surprising difference. After 6 weeks on a whole foods diet, my migraines decreased from weekly to monthly.",
+          "score": 45
+        },
+        {
+          "author": "anonymous",
+          "text": "Consistent sleep schedule was huge for me. Going to bed and waking at the same time every day, even weekends, reduced my migraine frequency significantly. Sleep deprivation was a major trigger.",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicpain_014",
+      "subreddit": "ChronicPain",
+      "title": "Looking for preventive strategies for chronic migraines",
+      "author": "anonymous",
+      "post_text": "Living with chronic migraines for 5 years. Medications help abort attacks but I want to reduce frequency. What preventive approaches have made the biggest difference for you?",
+      "score": 121,
+      "num_comments": 5,
+      "created_utc": "2024-11",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Regular aerobic exercise 4-5 times per week reduced my migraine frequency by about 50 percent. I do 30 minutes of moderate intensity. It took consistency over 2 months to see results.",
+          "score": 63
+        },
+        {
+          "author": "anonymous",
+          "text": "Eliminating artificial sweeteners and processed foods made a surprising difference. After 6 weeks on a whole foods diet, my migraines decreased from weekly to monthly.",
+          "score": 5
+        },
+        {
+          "author": "anonymous",
+          "text": "Acupuncture helped when other preventives failed. After 10 sessions over 3 months, my migraine frequency decreased noticeably. I continue monthly maintenance treatments.",
+          "score": 14
+        },
+        {
+          "author": "anonymous",
+          "text": "Biofeedback training taught me to recognize early warning signs and use relaxation techniques to prevent full migraine development. After 8 sessions, I can often stop migraines in the prodrome phase.",
+          "score": 56
+        },
+        {
+          "author": "anonymous",
+          "text": "Keeping a detailed migraine diary for 3 months helped identify my triggers. MSG, red wine, lack of sleep, and weather changes were my main culprits. Avoiding MSG alone reduced frequency by 40 percent.",
+          "score": 43
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicpain_015",
+      "subreddit": "ChronicPain",
+      "title": "What lifestyle changes reduced your migraines?",
+      "author": "anonymous",
+      "post_text": "My migraines seem triggered by multiple factors. I am trying to systematically address potential triggers. What specific changes made the most impact on your migraine frequency?",
+      "score": 56,
+      "num_comments": 4,
+      "created_utc": "2024-10",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Consistent sleep schedule was huge for me. Going to bed and waking at the same time every day, even weekends, reduced my migraine frequency significantly. Sleep deprivation was a major trigger.",
+          "score": 37
+        },
+        {
+          "author": "anonymous",
+          "text": "Acupuncture helped when other preventives failed. After 10 sessions over 3 months, my migraine frequency decreased noticeably. I continue monthly maintenance treatments.",
+          "score": 49
+        },
+        {
+          "author": "anonymous",
+          "text": "Magnesium glycinate 400mg daily plus riboflavin 400mg reduced my migraines from 12 per month to 3-4. It took about 3 months to see full effect. My neurologist recommended this combination.",
+          "score": 10
+        },
+        {
+          "author": "anonymous",
+          "text": "Biofeedback training taught me to recognize early warning signs and use relaxation techniques to prevent full migraine development. After 8 sessions, I can often stop migraines in the prodrome phase.",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicpain_016",
+      "subreddit": "ChronicPain",
+      "title": "How do you manage arthritis pain in your hands?",
+      "author": "anonymous",
+      "post_text": "Diagnosed with rheumatoid arthritis 3 years ago. Medications control inflammation but I still have pain and stiffness. Looking for additional strategies to improve daily function and comfort.",
+      "score": 116,
+      "num_comments": 4,
+      "created_utc": "2024-05",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Compression gloves while working and sleeping reduced my hand pain significantly. They provide support and warmth. I noticed improvement within days of starting to use them consistently.",
+          "score": 24
+        },
+        {
+          "author": "anonymous",
+          "text": "Swimming and water aerobics became my main exercise. The water supports joints while allowing movement. Three times per week has maintained my mobility without causing flares.",
+          "score": 70
+        },
+        {
+          "author": "anonymous",
+          "text": "Warm paraffin wax treatments for my hands before activities requiring dexterity made a big difference. The heat penetrates deeply and provides lasting relief. I do this daily.",
+          "score": 27
+        },
+        {
+          "author": "anonymous",
+          "text": "Gentle range-of-motion exercises every morning before getting out of bed helped reduce stiffness. Just 10 minutes of slow, controlled movements makes the day much more manageable.",
+          "score": 22
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicpain_017",
+      "subreddit": "ChronicPain",
+      "title": "What exercises help with arthritis without causing flares?",
+      "author": "anonymous",
+      "post_text": "My osteoarthritis in my knees limits my mobility. Physical therapy helped but I need sustainable long-term strategies. What has helped you maintain activity levels with arthritis?",
+      "score": 40,
+      "num_comments": 4,
+      "created_utc": "2024-08",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Tai chi classes twice weekly improved my balance, flexibility, and pain levels. The slow, controlled movements are perfect for arthritic joints. After 6 months I noticed significant improvement.",
+          "score": 47
+        },
+        {
+          "author": "anonymous",
+          "text": "Swimming and water aerobics became my main exercise. The water supports joints while allowing movement. Three times per week has maintained my mobility without causing flares.",
+          "score": 47
+        },
+        {
+          "author": "anonymous",
+          "text": "Gentle range-of-motion exercises every morning before getting out of bed helped reduce stiffness. Just 10 minutes of slow, controlled movements makes the day much more manageable.",
+          "score": 52
+        },
+        {
+          "author": "anonymous",
+          "text": "Anti-inflammatory diet reduced my morning stiffness dramatically. I eliminated nightshades, gluten, and sugar. After 8 weeks, my pain decreased noticeably and I needed less medication.",
+          "score": 45
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicpain_018",
+      "subreddit": "ChronicPain",
+      "title": "Looking for ways to maintain mobility with arthritis",
+      "author": "anonymous",
+      "post_text": "Recently diagnosed with psoriatic arthritis. Still learning to manage symptoms. Interested in hearing what combination of approaches has been most effective for others.",
+      "score": 42,
+      "num_comments": 4,
+      "created_utc": "2024-03",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Turmeric supplement with black pepper for absorption reduced my inflammation markers. After 3 months, my doctor noted improvement in blood work and I felt noticeably better.",
+          "score": 7
+        },
+        {
+          "author": "anonymous",
+          "text": "Heat therapy in the morning and cold therapy for acute flares became my routine. Heating pad for 15 minutes on stiff joints, ice pack for 10 minutes on inflamed joints.",
+          "score": 16
+        },
+        {
+          "author": "anonymous",
+          "text": "Swimming and water aerobics became my main exercise. The water supports joints while allowing movement. Three times per week has maintained my mobility without causing flares.",
+          "score": 9
+        },
+        {
+          "author": "anonymous",
+          "text": "Gentle range-of-motion exercises every morning before getting out of bed helped reduce stiffness. Just 10 minutes of slow, controlled movements makes the day much more manageable.",
+          "score": 38
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicpain_019",
+      "subreddit": "ChronicPain",
+      "title": "What has helped reduce arthritis inflammation naturally?",
+      "author": "anonymous",
+      "post_text": "Living with arthritis for 10 years. I have learned some strategies but always interested in new approaches. What has made the biggest difference in your daily quality of life?",
+      "score": 70,
+      "num_comments": 4,
+      "created_utc": "2024-11",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Warm paraffin wax treatments for my hands before activities requiring dexterity made a big difference. The heat penetrates deeply and provides lasting relief. I do this daily.",
+          "score": 69
+        },
+        {
+          "author": "anonymous",
+          "text": "Heat therapy in the morning and cold therapy for acute flares became my routine. Heating pad for 15 minutes on stiff joints, ice pack for 10 minutes on inflamed joints.",
+          "score": 42
+        },
+        {
+          "author": "anonymous",
+          "text": "Compression gloves while working and sleeping reduced my hand pain significantly. They provide support and warmth. I noticed improvement within days of starting to use them consistently.",
+          "score": 71
+        },
+        {
+          "author": "anonymous",
+          "text": "Turmeric supplement with black pepper for absorption reduced my inflammation markers. After 3 months, my doctor noted improvement in blood work and I felt noticeably better.",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicpain_020",
+      "subreddit": "ChronicPain",
+      "title": "How do you cope with arthritis pain during weather changes?",
+      "author": "anonymous",
+      "post_text": "My arthritis pain is worse in the mornings and during weather changes. Beyond medication, what practical strategies help you manage stiffness and maintain function?",
+      "score": 67,
+      "num_comments": 5,
+      "created_utc": "2024-12",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Gentle range-of-motion exercises every morning before getting out of bed helped reduce stiffness. Just 10 minutes of slow, controlled movements makes the day much more manageable.",
+          "score": 56
+        },
+        {
+          "author": "anonymous",
+          "text": "Heat therapy in the morning and cold therapy for acute flares became my routine. Heating pad for 15 minutes on stiff joints, ice pack for 10 minutes on inflamed joints.",
+          "score": 22
+        },
+        {
+          "author": "anonymous",
+          "text": "Warm paraffin wax treatments for my hands before activities requiring dexterity made a big difference. The heat penetrates deeply and provides lasting relief. I do this daily.",
+          "score": 45
+        },
+        {
+          "author": "anonymous",
+          "text": "Turmeric supplement with black pepper for absorption reduced my inflammation markers. After 3 months, my doctor noted improvement in blood work and I felt noticeably better.",
+          "score": 15
+        },
+        {
+          "author": "anonymous",
+          "text": "Swimming and water aerobics became my main exercise. The water supports joints while allowing movement. Three times per week has maintained my mobility without causing flares.",
+          "score": 24
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_021",
+      "subreddit": "ChronicIllness",
+      "title": "How do you manage post-exertional malaise with CFS?",
+      "author": "anonymous",
+      "post_text": "Diagnosed with CFS 18 months ago. Post-exertional malaise is my biggest challenge. I crash after even minor activities. Looking for pacing strategies that have helped others find a sustainable baseline.",
+      "score": 109,
+      "num_comments": 4,
+      "created_utc": "2024-09",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Breaking every activity into 10-minute segments with 5-minute rest breaks helped me accomplish more without triggering PEM. I set timers to enforce breaks even when feeling okay.",
+          "score": 23
+        },
+        {
+          "author": "anonymous",
+          "text": "Horizontal rest throughout the day, not just sitting, made a big difference. Lying down for 15 minutes every 2 hours prevents energy depletion. I keep a yoga mat in my office.",
+          "score": 42
+        },
+        {
+          "author": "anonymous",
+          "text": "B12 injections weekly gave me slightly more functional energy. Not a cure but improved brain fog and reduced severity of bad days. My doctor monitored levels carefully.",
+          "score": 9
+        },
+        {
+          "author": "anonymous",
+          "text": "Pacing app helped me track my energy envelope and identify activities that consistently triggered crashes. Over 6 months I learned my sustainable activity level and stayed within it.",
+          "score": 23
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_022",
+      "subreddit": "ChronicIllness",
+      "title": "What pacing strategies work for chronic fatigue syndrome?",
+      "author": "anonymous",
+      "post_text": "My chronic fatigue started after a viral infection and never resolved. Energy levels severely limit daily activities. Interested in hearing how others have adapted and what has helped even slightly.",
+      "score": 29,
+      "num_comments": 5,
+      "created_utc": "2024-11",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "LDN (low dose naltrexone) improved my functioning after other treatments failed. After 4 months I had noticeably more baseline energy. It was prescribed by a CFS-knowledgeable doctor.",
+          "score": 75
+        },
+        {
+          "author": "anonymous",
+          "text": "B12 injections weekly gave me slightly more functional energy. Not a cure but improved brain fog and reduced severity of bad days. My doctor monitored levels carefully.",
+          "score": 18
+        },
+        {
+          "author": "anonymous",
+          "text": "Breaking every activity into 10-minute segments with 5-minute rest breaks helped me accomplish more without triggering PEM. I set timers to enforce breaks even when feeling okay.",
+          "score": 39
+        },
+        {
+          "author": "anonymous",
+          "text": "Pacing app helped me track my energy envelope and identify activities that consistently triggered crashes. Over 6 months I learned my sustainable activity level and stayed within it.",
+          "score": 28
+        },
+        {
+          "author": "anonymous",
+          "text": "Horizontal rest throughout the day, not just sitting, made a big difference. Lying down for 15 minutes every 2 hours prevents energy depletion. I keep a yoga mat in my office.",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_023",
+      "subreddit": "ChronicIllness",
+      "title": "How do you maintain quality of life with severe CFS?",
+      "author": "anonymous",
+      "post_text": "Recently diagnosed with ME/CFS after years of being told it was just stress. Learning to pace activities. What practical strategies have made the biggest difference in managing your energy?",
+      "score": 28,
+      "num_comments": 5,
+      "created_utc": "2024-09",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Horizontal rest throughout the day, not just sitting, made a big difference. Lying down for 15 minutes every 2 hours prevents energy depletion. I keep a yoga mat in my office.",
+          "score": 13
+        },
+        {
+          "author": "anonymous",
+          "text": "LDN (low dose naltrexone) improved my functioning after other treatments failed. After 4 months I had noticeably more baseline energy. It was prescribed by a CFS-knowledgeable doctor.",
+          "score": 22
+        },
+        {
+          "author": "anonymous",
+          "text": "Heart rate monitoring revolutionized my pacing. I stay below my anaerobic threshold using a fitness tracker. When my heart rate rises above my limit, I rest immediately. This prevented most crashes.",
+          "score": 21
+        },
+        {
+          "author": "anonymous",
+          "text": "Pacing app helped me track my energy envelope and identify activities that consistently triggered crashes. Over 6 months I learned my sustainable activity level and stayed within it.",
+          "score": 65
+        },
+        {
+          "author": "anonymous",
+          "text": "B12 injections weekly gave me slightly more functional energy. Not a cure but improved brain fog and reduced severity of bad days. My doctor monitored levels carefully.",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_024",
+      "subreddit": "ChronicIllness",
+      "title": "What has helped improve your energy with chronic fatigue?",
+      "author": "anonymous",
+      "post_text": "Living with CFS for 5 years. I have learned some management techniques but still struggle with post-exertional crashes. What approach or combination of approaches has been most helpful?",
+      "score": 61,
+      "num_comments": 4,
+      "created_utc": "2024-06",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Pacing app helped me track my energy envelope and identify activities that consistently triggered crashes. Over 6 months I learned my sustainable activity level and stayed within it.",
+          "score": 53
+        },
+        {
+          "author": "anonymous",
+          "text": "B12 injections weekly gave me slightly more functional energy. Not a cure but improved brain fog and reduced severity of bad days. My doctor monitored levels carefully.",
+          "score": 24
+        },
+        {
+          "author": "anonymous",
+          "text": "Heart rate monitoring revolutionized my pacing. I stay below my anaerobic threshold using a fitness tracker. When my heart rate rises above my limit, I rest immediately. This prevented most crashes.",
+          "score": 50
+        },
+        {
+          "author": "anonymous",
+          "text": "Compression stockings helped with orthostatic intolerance which was draining my energy. Reducing blood pooling in legs improved my ability to stay upright longer without exhaustion.",
+          "score": 13
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_025",
+      "subreddit": "ChronicIllness",
+      "title": "Looking for practical daily management tips for CFS",
+      "author": "anonymous",
+      "post_text": "My CFS symptoms fluctuate day to day making it hard to plan activities. How do you balance wanting to do things with the need to conserve energy and avoid crashes?",
+      "score": 112,
+      "num_comments": 5,
+      "created_utc": "2024-06",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Horizontal rest throughout the day, not just sitting, made a big difference. Lying down for 15 minutes every 2 hours prevents energy depletion. I keep a yoga mat in my office.",
+          "score": 34
+        },
+        {
+          "author": "anonymous",
+          "text": "Aggressive energy conservation during good days prevents crashes. I learned to stop at 70 percent of my capacity, not push until exhausted. This kept my baseline more stable.",
+          "score": 53
+        },
+        {
+          "author": "anonymous",
+          "text": "Pacing app helped me track my energy envelope and identify activities that consistently triggered crashes. Over 6 months I learned my sustainable activity level and stayed within it.",
+          "score": 51
+        },
+        {
+          "author": "anonymous",
+          "text": "Heart rate monitoring revolutionized my pacing. I stay below my anaerobic threshold using a fitness tracker. When my heart rate rises above my limit, I rest immediately. This prevented most crashes.",
+          "score": 44
+        },
+        {
+          "author": "anonymous",
+          "text": "Compression stockings helped with orthostatic intolerance which was draining my energy. Reducing blood pooling in legs improved my ability to stay upright longer without exhaustion.",
+          "score": 21
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_026",
+      "subreddit": "ChronicIllness",
+      "title": "How long did it take for thyroid medication to help your fatigue?",
+      "author": "anonymous",
+      "post_text": "Recently diagnosed with hypothyroidism and started levothyroxine. Fatigue is still overwhelming after 2 months on medication. Doctor says levels are improving but I still feel exhausted. How long until you felt better?",
+      "score": 67,
+      "num_comments": 5,
+      "created_utc": "2024-03",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Getting 8-9 hours of sleep consistently was crucial during the adjustment period. I prioritized sleep over other activities. Quality sleep gave my body time to heal and adjust to medication.",
+          "score": 41
+        },
+        {
+          "author": "anonymous",
+          "text": "My doctor checked vitamin D, iron, and B12 levels - all were low and contributing to fatigue. Supplementing those while thyroid medication adjusted made a significant difference in energy.",
+          "score": 41
+        },
+        {
+          "author": "anonymous",
+          "text": "Stress management through daily meditation reduced my overall fatigue. High cortisol from stress was apparently interfering with thyroid function. After adding stress reduction practices, I improved.",
+          "score": 11
+        },
+        {
+          "author": "anonymous",
+          "text": "I had to increase my levothyroxine dose three times before finding the right level. Patience was hard but necessary. Meanwhile, eating protein with every meal stabilized my energy somewhat.",
+          "score": 70
+        },
+        {
+          "author": "anonymous",
+          "text": "Taking thyroid medication first thing in morning on empty stomach, then waiting an hour before eating or coffee, improved absorption. Once I got timing right, I felt noticeably better.",
+          "score": 17
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_027",
+      "subreddit": "ChronicIllness",
+      "title": "What helped manage fatigue while waiting for thyroid levels to stabilize?",
+      "author": "anonymous",
+      "post_text": "My hypothyroidism was diagnosed after years of unexplained fatigue. On medication for 4 months with some improvement but still struggling. What else has helped beyond just thyroid medication?",
+      "score": 103,
+      "num_comments": 4,
+      "created_utc": "2024-07",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Avoiding processed foods and eating anti-inflammatory diet supported my thyroid function. After 8 weeks of dietary changes, my energy improved beyond what medication alone provided.",
+          "score": 5
+        },
+        {
+          "author": "anonymous",
+          "text": "It took 6 months to feel substantially better even though my TSH normalized at 3 months. During that time, B-complex vitamins, consistent sleep schedule, and not fighting the fatigue helped.",
+          "score": 43
+        },
+        {
+          "author": "anonymous",
+          "text": "Getting 8-9 hours of sleep consistently was crucial during the adjustment period. I prioritized sleep over other activities. Quality sleep gave my body time to heal and adjust to medication.",
+          "score": 10
+        },
+        {
+          "author": "anonymous",
+          "text": "Taking thyroid medication first thing in morning on empty stomach, then waiting an hour before eating or coffee, improved absorption. Once I got timing right, I felt noticeably better.",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_028",
+      "subreddit": "ChronicIllness",
+      "title": "Do you have strategies for hypothyroid fatigue beyond medication?",
+      "author": "anonymous",
+      "post_text": "Started thyroid medication 6 weeks ago. Some days are better but overall still very fatigued. Doctor says it takes time. What strategies helped you cope during the adjustment period?",
+      "score": 33,
+      "num_comments": 5,
+      "created_utc": "2024-01",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "It took 6 months to feel substantially better even though my TSH normalized at 3 months. During that time, B-complex vitamins, consistent sleep schedule, and not fighting the fatigue helped.",
+          "score": 42
+        },
+        {
+          "author": "anonymous",
+          "text": "Gentle exercise paradoxically helped my fatigue. I started with 10-minute walks and gradually increased. On really bad days I did gentle stretching. Movement seemed to help more than complete rest.",
+          "score": 6
+        },
+        {
+          "author": "anonymous",
+          "text": "I had to increase my levothyroxine dose three times before finding the right level. Patience was hard but necessary. Meanwhile, eating protein with every meal stabilized my energy somewhat.",
+          "score": 39
+        },
+        {
+          "author": "anonymous",
+          "text": "Taking thyroid medication first thing in morning on empty stomach, then waiting an hour before eating or coffee, improved absorption. Once I got timing right, I felt noticeably better.",
+          "score": 18
+        },
+        {
+          "author": "anonymous",
+          "text": "Stress management through daily meditation reduced my overall fatigue. High cortisol from stress was apparently interfering with thyroid function. After adding stress reduction practices, I improved.",
+          "score": 31
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_029",
+      "subreddit": "ChronicIllness",
+      "title": "What supplements helped your hypothyroid symptoms?",
+      "author": "anonymous",
+      "post_text": "Living with hypothyroidism for 3 years. Medication helps but I still have fatigue. Interested in what lifestyle factors or supplements have made a noticeable difference for others.",
+      "score": 87,
+      "num_comments": 4,
+      "created_utc": "2024-05",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "My doctor checked vitamin D, iron, and B12 levels - all were low and contributing to fatigue. Supplementing those while thyroid medication adjusted made a significant difference in energy.",
+          "score": 17
+        },
+        {
+          "author": "anonymous",
+          "text": "I had to increase my levothyroxine dose three times before finding the right level. Patience was hard but necessary. Meanwhile, eating protein with every meal stabilized my energy somewhat.",
+          "score": 12
+        },
+        {
+          "author": "anonymous",
+          "text": "It took 6 months to feel substantially better even though my TSH normalized at 3 months. During that time, B-complex vitamins, consistent sleep schedule, and not fighting the fatigue helped.",
+          "score": 47
+        },
+        {
+          "author": "anonymous",
+          "text": "Avoiding processed foods and eating anti-inflammatory diet supported my thyroid function. After 8 weeks of dietary changes, my energy improved beyond what medication alone provided.",
+          "score": 41
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_030",
+      "subreddit": "ChronicIllness",
+      "title": "How do you maintain energy with hypothyroidism?",
+      "author": "anonymous",
+      "post_text": "My endocrinologist is still adjusting my thyroid medication dose. The fatigue makes daily activities challenging. What has helped you maintain function while getting medication levels right?",
+      "score": 45,
+      "num_comments": 4,
+      "created_utc": "2024-11",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "My doctor checked vitamin D, iron, and B12 levels - all were low and contributing to fatigue. Supplementing those while thyroid medication adjusted made a significant difference in energy.",
+          "score": 63
+        },
+        {
+          "author": "anonymous",
+          "text": "Avoiding processed foods and eating anti-inflammatory diet supported my thyroid function. After 8 weeks of dietary changes, my energy improved beyond what medication alone provided.",
+          "score": 10
+        },
+        {
+          "author": "anonymous",
+          "text": "Taking thyroid medication first thing in morning on empty stomach, then waiting an hour before eating or coffee, improved absorption. Once I got timing right, I felt noticeably better.",
+          "score": 67
+        },
+        {
+          "author": "anonymous",
+          "text": "Getting 8-9 hours of sleep consistently was crucial during the adjustment period. I prioritized sleep over other activities. Quality sleep gave my body time to heal and adjust to medication.",
+          "score": 18
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_031",
+      "subreddit": "ChronicIllness",
+      "title": "What strategies help you manage brain fog?",
+      "author": "anonymous",
+      "post_text": "I have fibromyalgia and the brain fog is sometimes worse than the pain. I forget words mid-sentence, lose my train of thought, and struggle to focus on tasks. Need practical strategies that have worked for others.",
+      "score": 150,
+      "num_comments": 4,
+      "created_utc": "2024-08",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Sleep quality was more important than I realized. Prioritizing sleep hygiene with blackout curtains, cool room, white noise machine, and consistent bedtime reduced my brain fog significantly.",
+          "score": 28
+        },
+        {
+          "author": "anonymous",
+          "text": "Regular gentle exercise improved my mental clarity unexpectedly. Even 15-minute walks helped. I think the improved blood flow and reduced inflammation from movement helps cognitive function.",
+          "score": 20
+        },
+        {
+          "author": "anonymous",
+          "text": "Staying extremely well hydrated helped more than expected. I aim for 80 ounces of water daily. Dehydration made my brain fog significantly worse.",
+          "score": 50
+        },
+        {
+          "author": "anonymous",
+          "text": "Detailed to-do lists and phone reminders for everything became essential. I also do one task at a time now - multitasking makes fog much worse. Breaking big tasks into tiny steps helps completion.",
+          "score": 50
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_032",
+      "subreddit": "ChronicIllness",
+      "title": "How do you stay productive with severe brain fog?",
+      "author": "anonymous",
+      "post_text": "My brain fog started with chronic illness and never resolved. It affects my work and relationships. I have tried various things with minimal improvement. What has actually made a noticeable difference for you?",
+      "score": 43,
+      "num_comments": 5,
+      "created_utc": "2024-09",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Doing cognitively demanding work only in the morning when I am freshest made me much more productive. I save easier tasks for afternoon when fog is worse. Respecting my cognitive rhythm helps.",
+          "score": 18
+        },
+        {
+          "author": "anonymous",
+          "text": "Staying extremely well hydrated helped more than expected. I aim for 80 ounces of water daily. Dehydration made my brain fog significantly worse.",
+          "score": 50
+        },
+        {
+          "author": "anonymous",
+          "text": "Regular gentle exercise improved my mental clarity unexpectedly. Even 15-minute walks helped. I think the improved blood flow and reduced inflammation from movement helps cognitive function.",
+          "score": 23
+        },
+        {
+          "author": "anonymous",
+          "text": "Eliminating foods that caused inflammation for me (gluten and dairy) reduced brain fog noticeably. After 4 weeks off these foods, my thinking felt clearer and recall improved.",
+          "score": 73
+        },
+        {
+          "author": "anonymous",
+          "text": "Time-blocking and minimizing decision fatigue helped me work with brain fog. I plan my day the night before, prepare clothes and meals in advance, reducing cognitive load during foggy times.",
+          "score": 33
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_033",
+      "subreddit": "ChronicIllness",
+      "title": "What has improved your cognitive clarity?",
+      "author": "anonymous",
+      "post_text": "Recently my cognitive symptoms worsened. Memory issues, difficulty concentrating, and mental fatigue are impacting my quality of life. What approaches have been most effective for improving mental clarity?",
+      "score": 49,
+      "num_comments": 5,
+      "created_utc": "2024-05",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Time-blocking and minimizing decision fatigue helped me work with brain fog. I plan my day the night before, prepare clothes and meals in advance, reducing cognitive load during foggy times.",
+          "score": 15
+        },
+        {
+          "author": "anonymous",
+          "text": "Omega-3 supplements (2000mg EPA/DHA) and reducing sugar intake improved my mental clarity noticeably after 6 weeks. The combination seemed to work better than either alone.",
+          "score": 8
+        },
+        {
+          "author": "anonymous",
+          "text": "Sleep quality was more important than I realized. Prioritizing sleep hygiene with blackout curtains, cool room, white noise machine, and consistent bedtime reduced my brain fog significantly.",
+          "score": 70
+        },
+        {
+          "author": "anonymous",
+          "text": "Detailed to-do lists and phone reminders for everything became essential. I also do one task at a time now - multitasking makes fog much worse. Breaking big tasks into tiny steps helps completion.",
+          "score": 34
+        },
+        {
+          "author": "anonymous",
+          "text": "Eliminating foods that caused inflammation for me (gluten and dairy) reduced brain fog noticeably. After 4 weeks off these foods, my thinking felt clearer and recall improved.",
+          "score": 20
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_034",
+      "subreddit": "ChronicIllness",
+      "title": "Looking for practical tips for brain fog during work",
+      "author": "anonymous",
+      "post_text": "Living with brain fog for 3 years. I have adapted somewhat but interested in strategies that might improve cognitive function. What combination of approaches has helped you most?",
+      "score": 150,
+      "num_comments": 5,
+      "created_utc": "2024-04",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Detailed to-do lists and phone reminders for everything became essential. I also do one task at a time now - multitasking makes fog much worse. Breaking big tasks into tiny steps helps completion.",
+          "score": 52
+        },
+        {
+          "author": "anonymous",
+          "text": "Staying extremely well hydrated helped more than expected. I aim for 80 ounces of water daily. Dehydration made my brain fog significantly worse.",
+          "score": 33
+        },
+        {
+          "author": "anonymous",
+          "text": "Sleep quality was more important than I realized. Prioritizing sleep hygiene with blackout curtains, cool room, white noise machine, and consistent bedtime reduced my brain fog significantly.",
+          "score": 66
+        },
+        {
+          "author": "anonymous",
+          "text": "Omega-3 supplements (2000mg EPA/DHA) and reducing sugar intake improved my mental clarity noticeably after 6 weeks. The combination seemed to work better than either alone.",
+          "score": 35
+        },
+        {
+          "author": "anonymous",
+          "text": "Regular gentle exercise improved my mental clarity unexpectedly. Even 15-minute walks helped. I think the improved blood flow and reduced inflammation from movement helps cognitive function.",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_035",
+      "subreddit": "ChronicIllness",
+      "title": "What supplements or lifestyle changes helped brain fog?",
+      "author": "anonymous",
+      "post_text": "My brain fog fluctuates day to day. Some days are manageable, others I can barely function mentally. How do you cope with cognitive symptoms and maintain productivity?",
+      "score": 95,
+      "num_comments": 4,
+      "created_utc": "2024-02",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Omega-3 supplements (2000mg EPA/DHA) and reducing sugar intake improved my mental clarity noticeably after 6 weeks. The combination seemed to work better than either alone.",
+          "score": 18
+        },
+        {
+          "author": "anonymous",
+          "text": "Staying extremely well hydrated helped more than expected. I aim for 80 ounces of water daily. Dehydration made my brain fog significantly worse.",
+          "score": 23
+        },
+        {
+          "author": "anonymous",
+          "text": "Eliminating foods that caused inflammation for me (gluten and dairy) reduced brain fog noticeably. After 4 weeks off these foods, my thinking felt clearer and recall improved.",
+          "score": 7
+        },
+        {
+          "author": "anonymous",
+          "text": "Doing cognitively demanding work only in the morning when I am freshest made me much more productive. I save easier tasks for afternoon when fog is worse. Respecting my cognitive rhythm helps.",
+          "score": 44
+        }
+      ]
+    },
+    {
+      "thread_id": "askdocs_036",
+      "subreddit": "AskDocs",
+      "title": "What natural approaches help manage anxiety?",
+      "author": "anonymous",
+      "post_text": "I experience daily anxiety with physical symptoms like racing heart and difficulty breathing. I want to try non-pharmaceutical approaches before considering medication. What has actually helped you manage anxiety?",
+      "score": 51,
+      "num_comments": 5,
+      "created_utc": "2024-03",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Progressive muscle relaxation before bed improved my sleep and reduced overall anxiety. I use a guided audio and it takes 15 minutes. Releasing physical tension helps mental tension.",
+          "score": 16
+        },
+        {
+          "author": "anonymous",
+          "text": "Reducing social media and news consumption significantly lowered my anxiety. I check news once daily now instead of constantly scrolling. This simple change improved my mental state greatly.",
+          "score": 29
+        },
+        {
+          "author": "anonymous",
+          "text": "Therapy with CBT techniques taught me to challenge anxious thoughts. Learning to identify cognitive distortions and reframe them practically reduced my anxiety over several months.",
+          "score": 69
+        },
+        {
+          "author": "anonymous",
+          "text": "Daily 30-minute walks, preferably in nature, reduced my baseline anxiety significantly over 6 weeks. The combination of exercise, fresh air, and nature exposure works better than any single intervention.",
+          "score": 55
+        },
+        {
+          "author": "anonymous",
+          "text": "Journaling about worries for 10 minutes before bed got them out of my head so I could sleep. Writing them down somehow makes them feel more manageable and less overwhelming.",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "thread_id": "askdocs_037",
+      "subreddit": "AskDocs",
+      "title": "How do you cope with physical anxiety symptoms?",
+      "author": "anonymous",
+      "post_text": "My anxiety has increased over the past year. It affects my sleep and daily functioning. I have therapy scheduled but looking for practical strategies I can implement now. What worked for you?",
+      "score": 91,
+      "num_comments": 4,
+      "created_utc": "2024-07",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Daily 30-minute walks, preferably in nature, reduced my baseline anxiety significantly over 6 weeks. The combination of exercise, fresh air, and nature exposure works better than any single intervention.",
+          "score": 66
+        },
+        {
+          "author": "anonymous",
+          "text": "Progressive muscle relaxation before bed improved my sleep and reduced overall anxiety. I use a guided audio and it takes 15 minutes. Releasing physical tension helps mental tension.",
+          "score": 37
+        },
+        {
+          "author": "anonymous",
+          "text": "Box breathing technique during acute anxiety episodes helped immensely. Breathe in for 4, hold for 4, out for 4, hold for 4. Repeat for 5 minutes. This activates the parasympathetic nervous system and calms me down.",
+          "score": 35
+        },
+        {
+          "author": "anonymous",
+          "text": "Limiting caffeine to before noon made a surprising difference. I didn't realize how much my afternoon coffee was contributing to anxiety and sleep issues. Switching to herbal tea helped.",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "thread_id": "askdocs_038",
+      "subreddit": "AskDocs",
+      "title": "What lifestyle changes reduced your anxiety?",
+      "author": "anonymous",
+      "post_text": "Recently started experiencing panic attacks. They are scary and I want to learn techniques to manage them better. What strategies help you cope when anxiety spikes?",
+      "score": 42,
+      "num_comments": 4,
+      "created_utc": "2024-02",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Box breathing technique during acute anxiety episodes helped immensely. Breathe in for 4, hold for 4, out for 4, hold for 4. Repeat for 5 minutes. This activates the parasympathetic nervous system and calms me down.",
+          "score": 17
+        },
+        {
+          "author": "anonymous",
+          "text": "Progressive muscle relaxation before bed improved my sleep and reduced overall anxiety. I use a guided audio and it takes 15 minutes. Releasing physical tension helps mental tension.",
+          "score": 24
+        },
+        {
+          "author": "anonymous",
+          "text": "Reducing social media and news consumption significantly lowered my anxiety. I check news once daily now instead of constantly scrolling. This simple change improved my mental state greatly.",
+          "score": 61
+        },
+        {
+          "author": "anonymous",
+          "text": "Journaling about worries for 10 minutes before bed got them out of my head so I could sleep. Writing them down somehow makes them feel more manageable and less overwhelming.",
+          "score": 49
+        }
+      ]
+    },
+    {
+      "thread_id": "askdocs_039",
+      "subreddit": "AskDocs",
+      "title": "Looking for non-medication strategies for anxiety",
+      "author": "anonymous",
+      "post_text": "Living with generalized anxiety for several years. Therapy helps but I want additional tools for daily management. What lifestyle changes or practices have made the biggest difference?",
+      "score": 26,
+      "num_comments": 4,
+      "created_utc": "2024-03",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Limiting caffeine to before noon made a surprising difference. I didn't realize how much my afternoon coffee was contributing to anxiety and sleep issues. Switching to herbal tea helped.",
+          "score": 11
+        },
+        {
+          "author": "anonymous",
+          "text": "Therapy with CBT techniques taught me to challenge anxious thoughts. Learning to identify cognitive distortions and reframe them practically reduced my anxiety over several months.",
+          "score": 16
+        },
+        {
+          "author": "anonymous",
+          "text": "Progressive muscle relaxation before bed improved my sleep and reduced overall anxiety. I use a guided audio and it takes 15 minutes. Releasing physical tension helps mental tension.",
+          "score": 47
+        },
+        {
+          "author": "anonymous",
+          "text": "Daily 30-minute walks, preferably in nature, reduced my baseline anxiety significantly over 6 weeks. The combination of exercise, fresh air, and nature exposure works better than any single intervention.",
+          "score": 32
+        }
+      ]
+    },
+    {
+      "thread_id": "askdocs_040",
+      "subreddit": "AskDocs",
+      "title": "How do you manage anxiety attacks when they start?",
+      "author": "anonymous",
+      "post_text": "My anxiety causes significant physical symptoms - chest tightness, nausea, tension. Beyond therapy, what practical approaches have helped you manage the physical manifestations of anxiety?",
+      "score": 38,
+      "num_comments": 4,
+      "created_utc": "2024-09",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Regular yoga practice 3 times weekly reduced my anxiety noticeably. The combination of movement, breathing, and mindfulness provided tools I use throughout the day when anxiety rises.",
+          "score": 14
+        },
+        {
+          "author": "anonymous",
+          "text": "Therapy with CBT techniques taught me to challenge anxious thoughts. Learning to identify cognitive distortions and reframe them practically reduced my anxiety over several months.",
+          "score": 69
+        },
+        {
+          "author": "anonymous",
+          "text": "Journaling about worries for 10 minutes before bed got them out of my head so I could sleep. Writing them down somehow makes them feel more manageable and less overwhelming.",
+          "score": 66
+        },
+        {
+          "author": "anonymous",
+          "text": "Progressive muscle relaxation before bed improved my sleep and reduced overall anxiety. I use a guided audio and it takes 15 minutes. Releasing physical tension helps mental tension.",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "thread_id": "askdocs_041",
+      "subreddit": "AskDocs",
+      "title": "What natural approaches improved your sleep quality?",
+      "author": "anonymous",
+      "post_text": "I have trouble staying asleep - wake up 3-4 times nightly. I fall asleep fine initially but cannot maintain sleep. Avoiding sleep medications. What natural approaches have worked for others?",
+      "score": 114,
+      "num_comments": 4,
+      "created_utc": "2024-10",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Cutting all caffeine after 2pm significantly improved my sleep. I didn't realize afternoon caffeine was affecting me 8 hours later. Switching to herbal tea helped.",
+          "score": 57
+        },
+        {
+          "author": "anonymous",
+          "text": "Exercise in the morning rather than evening helped sleep quality. Evening workouts seemed to energize me too close to bedtime. Morning exercise made me naturally tired by evening.",
+          "score": 53
+        },
+        {
+          "author": "anonymous",
+          "text": "Addressing nighttime anxiety through body scan meditation before sleep helped me stay asleep. I use a 20-minute guided audio. It quiets my racing mind and relaxes physical tension.",
+          "score": 14
+        },
+        {
+          "author": "anonymous",
+          "text": "Magnesium glycinate 400mg one hour before bed changed my sleep completely. I stay asleep now and wake refreshed. Took about a week to see full effect. Glycinate form is important - other forms caused digestive issues.",
+          "score": 15
+        }
+      ]
+    },
+    {
+      "thread_id": "askdocs_042",
+      "subreddit": "AskDocs",
+      "title": "How did you fix chronic insomnia without medication?",
+      "author": "anonymous",
+      "post_text": "My insomnia started 6 months ago and is affecting my health and work. I have tried basic sleep hygiene with minimal improvement. What less obvious strategies have helped you sleep better?",
+      "score": 147,
+      "num_comments": 5,
+      "created_utc": "2024-04",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Consistent wake time every day, even weekends, regulated my circadian rhythm. This consistency made falling asleep easier and reduced middle-night waking after about 3 weeks.",
+          "score": 48
+        },
+        {
+          "author": "anonymous",
+          "text": "Keeping my bedroom very dark and cool (66-68 degrees) improved sleep quality. I invested in blackout curtains and a good fan. Temperature regulation seemed key to staying asleep.",
+          "score": 20
+        },
+        {
+          "author": "anonymous",
+          "text": "Eliminating screens 1 hour before bed and reading physical books instead improved my sleep quality dramatically. Blue light was apparently disrupting my melatonin production more than I realized.",
+          "score": 30
+        },
+        {
+          "author": "anonymous",
+          "text": "Addressing nighttime anxiety through body scan meditation before sleep helped me stay asleep. I use a 20-minute guided audio. It quiets my racing mind and relaxes physical tension.",
+          "score": 41
+        },
+        {
+          "author": "anonymous",
+          "text": "White noise machine masked environmental sounds that were waking me. I didn't realize traffic and neighborhood sounds were disturbing sleep until I blocked them out completely.",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "thread_id": "askdocs_043",
+      "subreddit": "AskDocs",
+      "title": "What helps you stay asleep through the night?",
+      "author": "anonymous",
+      "post_text": "Recently my sleep quality deteriorated significantly. I wake feeling unrefreshed despite being in bed 8 hours. What has helped you achieve truly restorative sleep?",
+      "score": 54,
+      "num_comments": 4,
+      "created_utc": "2024-02",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Addressing nighttime anxiety through body scan meditation before sleep helped me stay asleep. I use a 20-minute guided audio. It quiets my racing mind and relaxes physical tension.",
+          "score": 37
+        },
+        {
+          "author": "anonymous",
+          "text": "Magnesium glycinate 400mg one hour before bed changed my sleep completely. I stay asleep now and wake refreshed. Took about a week to see full effect. Glycinate form is important - other forms caused digestive issues.",
+          "score": 37
+        },
+        {
+          "author": "anonymous",
+          "text": "White noise machine masked environmental sounds that were waking me. I didn't realize traffic and neighborhood sounds were disturbing sleep until I blocked them out completely.",
+          "score": 46
+        },
+        {
+          "author": "anonymous",
+          "text": "Keeping my bedroom very dark and cool (66-68 degrees) improved sleep quality. I invested in blackout curtains and a good fan. Temperature regulation seemed key to staying asleep.",
+          "score": 30
+        }
+      ]
+    },
+    {
+      "thread_id": "askdocs_044",
+      "subreddit": "AskDocs",
+      "title": "Looking for sleep hygiene strategies that actually work",
+      "author": "anonymous",
+      "post_text": "Living with chronic insomnia for 2 years. I have tried many approaches with limited success. What combination of strategies finally helped you sleep consistently?",
+      "score": 127,
+      "num_comments": 5,
+      "created_utc": "2024-07",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Cutting all caffeine after 2pm significantly improved my sleep. I didn't realize afternoon caffeine was affecting me 8 hours later. Switching to herbal tea helped.",
+          "score": 11
+        },
+        {
+          "author": "anonymous",
+          "text": "Addressing nighttime anxiety through body scan meditation before sleep helped me stay asleep. I use a 20-minute guided audio. It quiets my racing mind and relaxes physical tension.",
+          "score": 49
+        },
+        {
+          "author": "anonymous",
+          "text": "Exercise in the morning rather than evening helped sleep quality. Evening workouts seemed to energize me too close to bedtime. Morning exercise made me naturally tired by evening.",
+          "score": 52
+        },
+        {
+          "author": "anonymous",
+          "text": "Magnesium glycinate 400mg one hour before bed changed my sleep completely. I stay asleep now and wake refreshed. Took about a week to see full effect. Glycinate form is important - other forms caused digestive issues.",
+          "score": 49
+        },
+        {
+          "author": "anonymous",
+          "text": "White noise machine masked environmental sounds that were waking me. I didn't realize traffic and neighborhood sounds were disturbing sleep until I blocked them out completely.",
+          "score": 20
+        }
+      ]
+    },
+    {
+      "thread_id": "askdocs_045",
+      "subreddit": "AskDocs",
+      "title": "How do you manage middle-of-night waking?",
+      "author": "anonymous",
+      "post_text": "My sleep issues include difficulty falling asleep and frequent waking. It is a cycle - poor sleep increases stress which worsens sleep. How did you break this pattern?",
+      "score": 133,
+      "num_comments": 4,
+      "created_utc": "2024-08",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Addressing nighttime anxiety through body scan meditation before sleep helped me stay asleep. I use a 20-minute guided audio. It quiets my racing mind and relaxes physical tension.",
+          "score": 19
+        },
+        {
+          "author": "anonymous",
+          "text": "Magnesium glycinate 400mg one hour before bed changed my sleep completely. I stay asleep now and wake refreshed. Took about a week to see full effect. Glycinate form is important - other forms caused digestive issues.",
+          "score": 5
+        },
+        {
+          "author": "anonymous",
+          "text": "Exercise in the morning rather than evening helped sleep quality. Evening workouts seemed to energize me too close to bedtime. Morning exercise made me naturally tired by evening.",
+          "score": 42
+        },
+        {
+          "author": "anonymous",
+          "text": "Keeping my bedroom very dark and cool (66-68 degrees) improved sleep quality. I invested in blackout curtains and a good fan. Temperature regulation seemed key to staying asleep.",
+          "score": 34
+        }
+      ]
+    },
+    {
+      "thread_id": "askdocs_046",
+      "subreddit": "AskDocs",
+      "title": "How do you manage IBS symptoms naturally?",
+      "author": "anonymous",
+      "post_text": "I have IBS that significantly impacts my daily life. Symptoms vary but include cramping, bloating, and unpredictable bowel changes. Looking for strategies beyond basic dietary advice that have helped others.",
+      "score": 111,
+      "num_comments": 5,
+      "created_utc": "2024-08",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Peppermint oil capsules (enteric-coated) taken before meals reduced my cramping and bloating noticeably. My gastroenterologist recommended this and it actually worked.",
+          "score": 64
+        },
+        {
+          "author": "anonymous",
+          "text": "Psyllium husk fiber supplement helped regulate my bowel movements. Started with small amounts and gradually increased. This provided consistency I couldn't achieve through diet alone.",
+          "score": 39
+        },
+        {
+          "author": "anonymous",
+          "text": "Probiotic supplements (specific strains for IBS) improved my symptoms after 6 weeks of consistent use. Not all probiotics work the same - I needed ones clinically tested for IBS.",
+          "score": 73
+        },
+        {
+          "author": "anonymous",
+          "text": "Eating smaller, more frequent meals instead of large meals reduced my symptoms significantly. I eat 5-6 small meals daily which keeps digestion manageable.",
+          "score": 64
+        },
+        {
+          "author": "anonymous",
+          "text": "Food journaling for 3 months revealed patterns I hadn't noticed. Eating too quickly, not chewing enough, and eating while stressed all triggered symptoms regardless of food type.",
+          "score": 50
+        }
+      ]
+    },
+    {
+      "thread_id": "askdocs_047",
+      "subreddit": "AskDocs",
+      "title": "What diet changes helped your IBS?",
+      "author": "anonymous",
+      "post_text": "My IBS symptoms seem triggered by stress and certain foods but I cannot pinpoint exact triggers. How did you systematically identify what worsens your symptoms?",
+      "score": 101,
+      "num_comments": 5,
+      "created_utc": "2024-11",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Cognitive behavioral therapy specifically for IBS helped me manage the gut-brain connection. Learning how my thoughts and stress directly affected symptoms gave me more control.",
+          "score": 65
+        },
+        {
+          "author": "anonymous",
+          "text": "Peppermint oil capsules (enteric-coated) taken before meals reduced my cramping and bloating noticeably. My gastroenterologist recommended this and it actually worked.",
+          "score": 43
+        },
+        {
+          "author": "anonymous",
+          "text": "Stress management through daily meditation made a huge difference for my IBS. After 2 months of consistent practice, my flare-up frequency decreased by about 60 percent.",
+          "score": 41
+        },
+        {
+          "author": "anonymous",
+          "text": "Low FODMAP diet elimination phase helped identify my specific triggers. After 8 weeks of systematic reintroduction, I learned exactly which foods cause problems. Now I can manage symptoms through diet alone.",
+          "score": 63
+        },
+        {
+          "author": "anonymous",
+          "text": "Psyllium husk fiber supplement helped regulate my bowel movements. Started with small amounts and gradually increased. This provided consistency I couldn't achieve through diet alone.",
+          "score": 20
+        }
+      ]
+    },
+    {
+      "thread_id": "askdocs_048",
+      "subreddit": "AskDocs",
+      "title": "How did you identify your IBS triggers?",
+      "author": "anonymous",
+      "post_text": "Recently diagnosed with IBS after extensive testing ruled out other conditions. Learning to manage symptoms. What combination of approaches has been most effective for you?",
+      "score": 113,
+      "num_comments": 5,
+      "created_utc": "2024-09",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Food journaling for 3 months revealed patterns I hadn't noticed. Eating too quickly, not chewing enough, and eating while stressed all triggered symptoms regardless of food type.",
+          "score": 35
+        },
+        {
+          "author": "anonymous",
+          "text": "Low FODMAP diet elimination phase helped identify my specific triggers. After 8 weeks of systematic reintroduction, I learned exactly which foods cause problems. Now I can manage symptoms through diet alone.",
+          "score": 23
+        },
+        {
+          "author": "anonymous",
+          "text": "Cognitive behavioral therapy specifically for IBS helped me manage the gut-brain connection. Learning how my thoughts and stress directly affected symptoms gave me more control.",
+          "score": 32
+        },
+        {
+          "author": "anonymous",
+          "text": "Psyllium husk fiber supplement helped regulate my bowel movements. Started with small amounts and gradually increased. This provided consistency I couldn't achieve through diet alone.",
+          "score": 72
+        },
+        {
+          "author": "anonymous",
+          "text": "Probiotic supplements (specific strains for IBS) improved my symptoms after 6 weeks of consistent use. Not all probiotics work the same - I needed ones clinically tested for IBS.",
+          "score": 54
+        }
+      ]
+    },
+    {
+      "thread_id": "askdocs_049",
+      "subreddit": "AskDocs",
+      "title": "Looking for strategies to reduce IBS flare-ups",
+      "author": "anonymous",
+      "post_text": "Living with IBS for 5 years. I have some strategies but still have frequent flares. What less obvious factors or approaches have improved your symptom control?",
+      "score": 54,
+      "num_comments": 5,
+      "created_utc": "2024-02",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Low FODMAP diet elimination phase helped identify my specific triggers. After 8 weeks of systematic reintroduction, I learned exactly which foods cause problems. Now I can manage symptoms through diet alone.",
+          "score": 42
+        },
+        {
+          "author": "anonymous",
+          "text": "Food journaling for 3 months revealed patterns I hadn't noticed. Eating too quickly, not chewing enough, and eating while stressed all triggered symptoms regardless of food type.",
+          "score": 52
+        },
+        {
+          "author": "anonymous",
+          "text": "Cognitive behavioral therapy specifically for IBS helped me manage the gut-brain connection. Learning how my thoughts and stress directly affected symptoms gave me more control.",
+          "score": 57
+        },
+        {
+          "author": "anonymous",
+          "text": "Eating smaller, more frequent meals instead of large meals reduced my symptoms significantly. I eat 5-6 small meals daily which keeps digestion manageable.",
+          "score": 68
+        },
+        {
+          "author": "anonymous",
+          "text": "Psyllium husk fiber supplement helped regulate my bowel movements. Started with small amounts and gradually increased. This provided consistency I couldn't achieve through diet alone.",
+          "score": 41
+        }
+      ]
+    },
+    {
+      "thread_id": "askdocs_050",
+      "subreddit": "AskDocs",
+      "title": "What has helped your IBS-related anxiety?",
+      "author": "anonymous",
+      "post_text": "My IBS symptoms cause significant anxiety which then worsens symptoms - a difficult cycle. How have you managed both the physical symptoms and the anxiety around them?",
+      "score": 30,
+      "num_comments": 5,
+      "created_utc": "2024-11",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Peppermint oil capsules (enteric-coated) taken before meals reduced my cramping and bloating noticeably. My gastroenterologist recommended this and it actually worked.",
+          "score": 40
+        },
+        {
+          "author": "anonymous",
+          "text": "Low FODMAP diet elimination phase helped identify my specific triggers. After 8 weeks of systematic reintroduction, I learned exactly which foods cause problems. Now I can manage symptoms through diet alone.",
+          "score": 33
+        },
+        {
+          "author": "anonymous",
+          "text": "Stress management through daily meditation made a huge difference for my IBS. After 2 months of consistent practice, my flare-up frequency decreased by about 60 percent.",
+          "score": 37
+        },
+        {
+          "author": "anonymous",
+          "text": "Probiotic supplements (specific strains for IBS) improved my symptoms after 6 weeks of consistent use. Not all probiotics work the same - I needed ones clinically tested for IBS.",
+          "score": 15
+        },
+        {
+          "author": "anonymous",
+          "text": "Food journaling for 3 months revealed patterns I hadn't noticed. Eating too quickly, not chewing enough, and eating while stressed all triggered symptoms regardless of food type.",
+          "score": 31
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_051",
+      "subreddit": "ChronicIllness",
+      "title": "How do you manage lupus fatigue and flares?",
+      "author": "anonymous",
+      "post_text": "Diagnosed with lupus 18 months ago. Managing medication but still have fatigue and joint pain. Looking for lifestyle strategies that have helped others reduce symptoms and flare frequency.",
+      "score": 76,
+      "num_comments": 4,
+      "created_utc": "2024-06",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Turmeric supplement with black pepper for absorption reduced my need for NSAIDs. After 2 months of consistent use, I had less joint pain and inflammation.",
+          "score": 21
+        },
+        {
+          "author": "anonymous",
+          "text": "Vitamin D supplementation (monitored by doctor) helped with fatigue and pain. Many lupus patients are deficient and it affects multiple symptoms. Getting levels optimized made a difference.",
+          "score": 57
+        },
+        {
+          "author": "anonymous",
+          "text": "Getting adequate sleep is crucial for managing lupus. I prioritize 8-9 hours nightly. Poor sleep almost always triggers increased symptoms within a day or two.",
+          "score": 60
+        },
+        {
+          "author": "anonymous",
+          "text": "Sun protection became non-negotiable for me. SPF 50 applied every 2 hours, long sleeves, wide-brimmed hat. Since getting serious about sun avoidance, my flare frequency decreased noticeably.",
+          "score": 32
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_052",
+      "subreddit": "ChronicIllness",
+      "title": "What lifestyle changes help with lupus symptoms?",
+      "author": "anonymous",
+      "post_text": "My lupus symptoms fluctuate significantly. Some weeks are manageable, others I can barely function. How do you identify flare triggers and prevent them when possible?",
+      "score": 68,
+      "num_comments": 4,
+      "created_utc": "2024-11",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Sun protection became non-negotiable for me. SPF 50 applied every 2 hours, long sleeves, wide-brimmed hat. Since getting serious about sun avoidance, my flare frequency decreased noticeably.",
+          "score": 67
+        },
+        {
+          "author": "anonymous",
+          "text": "Turmeric supplement with black pepper for absorption reduced my need for NSAIDs. After 2 months of consistent use, I had less joint pain and inflammation.",
+          "score": 7
+        },
+        {
+          "author": "anonymous",
+          "text": "Gentle exercise like swimming or walking maintained my joint mobility without triggering flares. I avoid high-impact activities but staying completely inactive made things worse.",
+          "score": 45
+        },
+        {
+          "author": "anonymous",
+          "text": "Getting adequate sleep is crucial for managing lupus. I prioritize 8-9 hours nightly. Poor sleep almost always triggers increased symptoms within a day or two.",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_053",
+      "subreddit": "ChronicIllness",
+      "title": "How do you protect yourself from lupus sun sensitivity?",
+      "author": "anonymous",
+      "post_text": "Recently diagnosed with SLE lupus. Still learning what helps and what makes things worse. What knowledge or strategies do you wish you had known earlier in your lupus journey?",
+      "score": 125,
+      "num_comments": 4,
+      "created_utc": "2024-09",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Vitamin D supplementation (monitored by doctor) helped with fatigue and pain. Many lupus patients are deficient and it affects multiple symptoms. Getting levels optimized made a difference.",
+          "score": 40
+        },
+        {
+          "author": "anonymous",
+          "text": "Anti-inflammatory diet with emphasis on omega-3s reduced my joint pain and overall inflammation markers. After 3 months, my rheumatologist noted improvement in blood work.",
+          "score": 5
+        },
+        {
+          "author": "anonymous",
+          "text": "Getting adequate sleep is crucial for managing lupus. I prioritize 8-9 hours nightly. Poor sleep almost always triggers increased symptoms within a day or two.",
+          "score": 32
+        },
+        {
+          "author": "anonymous",
+          "text": "Stress management is critical for my lupus. High stress consistently precedes flares. Daily meditation, therapy, and saying no to excessive commitments reduced my flare frequency by half.",
+          "score": 9
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_054",
+      "subreddit": "ChronicIllness",
+      "title": "Looking for strategies to prevent lupus flares",
+      "author": "anonymous",
+      "post_text": "Living with lupus for 4 years. I have learned some management techniques but interested in what has made the biggest difference for others in controlling disease activity.",
+      "score": 107,
+      "num_comments": 5,
+      "created_utc": "2024-02",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Pacing activities to avoid overexertion prevents flares. I plan rest days after busy days. Learning to stop at 70 percent of my energy prevents crashes that trigger symptom increases.",
+          "score": 73
+        },
+        {
+          "author": "anonymous",
+          "text": "Anti-inflammatory diet with emphasis on omega-3s reduced my joint pain and overall inflammation markers. After 3 months, my rheumatologist noted improvement in blood work.",
+          "score": 5
+        },
+        {
+          "author": "anonymous",
+          "text": "Sun protection became non-negotiable for me. SPF 50 applied every 2 hours, long sleeves, wide-brimmed hat. Since getting serious about sun avoidance, my flare frequency decreased noticeably.",
+          "score": 52
+        },
+        {
+          "author": "anonymous",
+          "text": "Stress management is critical for my lupus. High stress consistently precedes flares. Daily meditation, therapy, and saying no to excessive commitments reduced my flare frequency by half.",
+          "score": 14
+        },
+        {
+          "author": "anonymous",
+          "text": "Getting adequate sleep is crucial for managing lupus. I prioritize 8-9 hours nightly. Poor sleep almost always triggers increased symptoms within a day or two.",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_055",
+      "subreddit": "ChronicIllness",
+      "title": "What has helped reduce lupus inflammation?",
+      "author": "anonymous",
+      "post_text": "My lupus primarily affects my joints and energy levels. Beyond medication, what practical daily strategies help you maintain function and reduce symptom severity?",
+      "score": 11,
+      "num_comments": 5,
+      "created_utc": "2024-07",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Pacing activities to avoid overexertion prevents flares. I plan rest days after busy days. Learning to stop at 70 percent of my energy prevents crashes that trigger symptom increases.",
+          "score": 9
+        },
+        {
+          "author": "anonymous",
+          "text": "Anti-inflammatory diet with emphasis on omega-3s reduced my joint pain and overall inflammation markers. After 3 months, my rheumatologist noted improvement in blood work.",
+          "score": 74
+        },
+        {
+          "author": "anonymous",
+          "text": "Stress management is critical for my lupus. High stress consistently precedes flares. Daily meditation, therapy, and saying no to excessive commitments reduced my flare frequency by half.",
+          "score": 59
+        },
+        {
+          "author": "anonymous",
+          "text": "Turmeric supplement with black pepper for absorption reduced my need for NSAIDs. After 2 months of consistent use, I had less joint pain and inflammation.",
+          "score": 53
+        },
+        {
+          "author": "anonymous",
+          "text": "Getting adequate sleep is crucial for managing lupus. I prioritize 8-9 hours nightly. Poor sleep almost always triggers increased symptoms within a day or two.",
+          "score": 36
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_056",
+      "subreddit": "ChronicIllness",
+      "title": "How do you manage RA morning stiffness?",
+      "author": "anonymous",
+      "post_text": "Diagnosed with RA 2 years ago. Medication helps control disease activity but I still have pain and stiffness, especially mornings. What additional strategies have improved your daily function?",
+      "score": 46,
+      "num_comments": 4,
+      "created_utc": "2024-01",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Paraffin wax treatments for my hands before activities requiring dexterity helped significantly. The deep heat penetrates joints and provides lasting relief. I do this daily.",
+          "score": 35
+        },
+        {
+          "author": "anonymous",
+          "text": "Occupational therapy taught me joint protection techniques and adaptive tools. Learning proper ways to do daily tasks without stressing joints prevented further damage.",
+          "score": 72
+        },
+        {
+          "author": "anonymous",
+          "text": "Gentle range-of-motion exercises every morning before getting out of bed reduced my stiffness significantly. Just 10 minutes of slow movements makes the whole day more manageable.",
+          "score": 46
+        },
+        {
+          "author": "anonymous",
+          "text": "Compression gloves at night and during activities reduced my hand pain and swelling noticeably. The warmth and support they provide made daily tasks much easier.",
+          "score": 51
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_057",
+      "subreddit": "ChronicIllness",
+      "title": "What exercises help with RA without causing flares?",
+      "author": "anonymous",
+      "post_text": "My rheumatoid arthritis mainly affects my hands making daily tasks difficult. I am looking for practical strategies to maintain hand function and reduce pain during activities.",
+      "score": 54,
+      "num_comments": 5,
+      "created_utc": "2024-02",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Compression gloves at night and during activities reduced my hand pain and swelling noticeably. The warmth and support they provide made daily tasks much easier.",
+          "score": 15
+        },
+        {
+          "author": "anonymous",
+          "text": "Heat therapy in morning (heating pad for 15 minutes) and ice for acute flares became my routine. Knowing when to use heat versus cold improved my pain management.",
+          "score": 70
+        },
+        {
+          "author": "anonymous",
+          "text": "Gentle range-of-motion exercises every morning before getting out of bed reduced my stiffness significantly. Just 10 minutes of slow movements makes the whole day more manageable.",
+          "score": 75
+        },
+        {
+          "author": "anonymous",
+          "text": "Paraffin wax treatments for my hands before activities requiring dexterity helped significantly. The deep heat penetrates joints and provides lasting relief. I do this daily.",
+          "score": 47
+        },
+        {
+          "author": "anonymous",
+          "text": "Anti-inflammatory diet eliminating nightshades, gluten, and dairy reduced my pain and morning stiffness after 6 weeks. It was difficult to stick with but the improvement was worth it.",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_058",
+      "subreddit": "ChronicIllness",
+      "title": "How do you maintain hand function with RA?",
+      "author": "anonymous",
+      "post_text": "Recently started RA medication. Still adjusting and learning to manage symptoms. What lifestyle factors or approaches have made the biggest difference in your RA management?",
+      "score": 98,
+      "num_comments": 5,
+      "created_utc": "2024-08",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Gentle range-of-motion exercises every morning before getting out of bed reduced my stiffness significantly. Just 10 minutes of slow movements makes the whole day more manageable.",
+          "score": 52
+        },
+        {
+          "author": "anonymous",
+          "text": "Paraffin wax treatments for my hands before activities requiring dexterity helped significantly. The deep heat penetrates joints and provides lasting relief. I do this daily.",
+          "score": 55
+        },
+        {
+          "author": "anonymous",
+          "text": "Omega-3 fish oil supplement (2000mg EPA/DHA daily) reduced my inflammation and need for NSAIDs. After 3 months my rheumatologist noted improved inflammatory markers.",
+          "score": 6
+        },
+        {
+          "author": "anonymous",
+          "text": "Water aerobics 3 times weekly maintained my fitness without joint stress. The warm water helps stiffness while the movement prevents further joint damage from inactivity.",
+          "score": 23
+        },
+        {
+          "author": "anonymous",
+          "text": "Compression gloves at night and during activities reduced my hand pain and swelling noticeably. The warmth and support they provide made daily tasks much easier.",
+          "score": 41
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_059",
+      "subreddit": "ChronicIllness",
+      "title": "Looking for natural ways to reduce RA inflammation",
+      "author": "anonymous",
+      "post_text": "Living with RA for 6 years. I have adapted in many ways but always interested in new strategies. What has helped you maintain independence and activity levels?",
+      "score": 22,
+      "num_comments": 4,
+      "created_utc": "2024-06",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Anti-inflammatory diet eliminating nightshades, gluten, and dairy reduced my pain and morning stiffness after 6 weeks. It was difficult to stick with but the improvement was worth it.",
+          "score": 62
+        },
+        {
+          "author": "anonymous",
+          "text": "Compression gloves at night and during activities reduced my hand pain and swelling noticeably. The warmth and support they provide made daily tasks much easier.",
+          "score": 26
+        },
+        {
+          "author": "anonymous",
+          "text": "Paraffin wax treatments for my hands before activities requiring dexterity helped significantly. The deep heat penetrates joints and provides lasting relief. I do this daily.",
+          "score": 63
+        },
+        {
+          "author": "anonymous",
+          "text": "Gentle range-of-motion exercises every morning before getting out of bed reduced my stiffness significantly. Just 10 minutes of slow movements makes the whole day more manageable.",
+          "score": 6
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_060",
+      "subreddit": "ChronicIllness",
+      "title": "What has helped you stay active with rheumatoid arthritis?",
+      "author": "anonymous",
+      "post_text": "My RA symptoms vary - some days are good, others very painful. How do you manage the unpredictability and maintain as normal a life as possible?",
+      "score": 15,
+      "num_comments": 5,
+      "created_utc": "2024-07",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Water aerobics 3 times weekly maintained my fitness without joint stress. The warm water helps stiffness while the movement prevents further joint damage from inactivity.",
+          "score": 29
+        },
+        {
+          "author": "anonymous",
+          "text": "Paraffin wax treatments for my hands before activities requiring dexterity helped significantly. The deep heat penetrates joints and provides lasting relief. I do this daily.",
+          "score": 68
+        },
+        {
+          "author": "anonymous",
+          "text": "Compression gloves at night and during activities reduced my hand pain and swelling noticeably. The warmth and support they provide made daily tasks much easier.",
+          "score": 35
+        },
+        {
+          "author": "anonymous",
+          "text": "Gentle range-of-motion exercises every morning before getting out of bed reduced my stiffness significantly. Just 10 minutes of slow movements makes the whole day more manageable.",
+          "score": 70
+        },
+        {
+          "author": "anonymous",
+          "text": "Heat therapy in morning (heating pad for 15 minutes) and ice for acute flares became my routine. Knowing when to use heat versus cold improved my pain management.",
+          "score": 27
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicpain_061",
+      "subreddit": "ChronicPain",
+      "title": "What has helped your peripheral neuropathy pain?",
+      "author": "anonymous",
+      "post_text": "I have peripheral neuropathy causing burning and tingling in my feet. It is constant and affecting my sleep and mobility. Looking for strategies that have provided even partial relief for others.",
+      "score": 106,
+      "num_comments": 4,
+      "created_utc": "2024-01",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Capsaicin cream applied regularly to affected areas reduced burning pain over time. It increased initially but after 2 weeks of consistent use, pain decreased noticeably.",
+          "score": 40
+        },
+        {
+          "author": "anonymous",
+          "text": "B12 injections weekly significantly helped my neuropathy. My levels were low-normal but supplementation still made a noticeable difference. Pills didn't work as well as injections.",
+          "score": 19
+        },
+        {
+          "author": "anonymous",
+          "text": "Acupuncture provided unexpected relief after 10 sessions. The nerve pain decreased and I had periods of normal sensation. I continue monthly maintenance treatments.",
+          "score": 13
+        },
+        {
+          "author": "anonymous",
+          "text": "Keeping feet warm with specialized socks reduced my symptoms. Cold seemed to make neuropathy much worse. Maintaining warmth provided consistent comfort.",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicpain_062",
+      "subreddit": "ChronicPain",
+      "title": "How do you manage diabetic neuropathy symptoms?",
+      "author": "anonymous",
+      "post_text": "My diabetic neuropathy is worsening despite good glucose control. Pain and numbness are impacting quality of life. What has helped you manage neuropathic symptoms?",
+      "score": 145,
+      "num_comments": 4,
+      "created_utc": "2024-02",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Keeping feet warm with specialized socks reduced my symptoms. Cold seemed to make neuropathy much worse. Maintaining warmth provided consistent comfort.",
+          "score": 26
+        },
+        {
+          "author": "anonymous",
+          "text": "Avoiding prolonged sitting or positions that compress nerves helped reduce symptoms. I take frequent movement breaks and adjust positions often to prevent nerve compression.",
+          "score": 71
+        },
+        {
+          "author": "anonymous",
+          "text": "Capsaicin cream applied regularly to affected areas reduced burning pain over time. It increased initially but after 2 weeks of consistent use, pain decreased noticeably.",
+          "score": 68
+        },
+        {
+          "author": "anonymous",
+          "text": "B12 injections weekly significantly helped my neuropathy. My levels were low-normal but supplementation still made a noticeable difference. Pills didn't work as well as injections.",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicpain_063",
+      "subreddit": "ChronicPain",
+      "title": "Looking for strategies for neuropathic pain relief",
+      "author": "anonymous",
+      "post_text": "Recently diagnosed with small fiber neuropathy. Still learning how to manage these strange sensations. What approaches have been most effective for nerve pain?",
+      "score": 10,
+      "num_comments": 4,
+      "created_utc": "2024-04",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "B12 injections weekly significantly helped my neuropathy. My levels were low-normal but supplementation still made a noticeable difference. Pills didn't work as well as injections.",
+          "score": 57
+        },
+        {
+          "author": "anonymous",
+          "text": "Avoiding prolonged sitting or positions that compress nerves helped reduce symptoms. I take frequent movement breaks and adjust positions often to prevent nerve compression.",
+          "score": 11
+        },
+        {
+          "author": "anonymous",
+          "text": "Gabapentin at bedtime helped me sleep despite neuropathy pain. While it didn't eliminate daytime symptoms, better sleep improved my overall ability to cope with pain.",
+          "score": 39
+        },
+        {
+          "author": "anonymous",
+          "text": "Capsaicin cream applied regularly to affected areas reduced burning pain over time. It increased initially but after 2 weeks of consistent use, pain decreased noticeably.",
+          "score": 10
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicpain_064",
+      "subreddit": "ChronicPain",
+      "title": "What supplements helped your neuropathy?",
+      "author": "anonymous",
+      "post_text": "Living with neuropathy for 3 years. I have tried various medications with limited success. Interested in complementary approaches that have helped others.",
+      "score": 50,
+      "num_comments": 4,
+      "created_utc": "2024-02",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Avoiding prolonged sitting or positions that compress nerves helped reduce symptoms. I take frequent movement breaks and adjust positions often to prevent nerve compression.",
+          "score": 61
+        },
+        {
+          "author": "anonymous",
+          "text": "Keeping feet warm with specialized socks reduced my symptoms. Cold seemed to make neuropathy much worse. Maintaining warmth provided consistent comfort.",
+          "score": 72
+        },
+        {
+          "author": "anonymous",
+          "text": "Acupuncture provided unexpected relief after 10 sessions. The nerve pain decreased and I had periods of normal sensation. I continue monthly maintenance treatments.",
+          "score": 41
+        },
+        {
+          "author": "anonymous",
+          "text": "Gabapentin at bedtime helped me sleep despite neuropathy pain. While it didn't eliminate daytime symptoms, better sleep improved my overall ability to cope with pain.",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicpain_065",
+      "subreddit": "ChronicPain",
+      "title": "How do you cope with constant tingling and burning?",
+      "author": "anonymous",
+      "post_text": "My neuropathy causes both pain and numbness which is a difficult combination. How do you manage symptoms while maintaining safety and function?",
+      "score": 64,
+      "num_comments": 4,
+      "created_utc": "2024-12",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Benfotiamine (fat-soluble B1) supplement helped my diabetic neuropathy more than regular B1. After 3 months of daily use, the burning and tingling reduced significantly.",
+          "score": 44
+        },
+        {
+          "author": "anonymous",
+          "text": "Avoiding prolonged sitting or positions that compress nerves helped reduce symptoms. I take frequent movement breaks and adjust positions often to prevent nerve compression.",
+          "score": 69
+        },
+        {
+          "author": "anonymous",
+          "text": "Keeping feet warm with specialized socks reduced my symptoms. Cold seemed to make neuropathy much worse. Maintaining warmth provided consistent comfort.",
+          "score": 26
+        },
+        {
+          "author": "anonymous",
+          "text": "Gabapentin at bedtime helped me sleep despite neuropathy pain. While it didn't eliminate daytime symptoms, better sleep improved my overall ability to cope with pain.",
+          "score": 44
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_066",
+      "subreddit": "ChronicIllness",
+      "title": "How do you manage POTS dizziness and fatigue?",
+      "author": "anonymous",
+      "post_text": "Diagnosed with POTS 6 months ago. The dizziness and fatigue are limiting my activities significantly. Looking for practical strategies that have helped others manage symptoms.",
+      "score": 69,
+      "num_comments": 5,
+      "created_utc": "2024-12",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Electrolyte drinks throughout the day in addition to water helped maintain fluid balance better than water alone. I drink one electrolyte beverage with each meal.",
+          "score": 45
+        },
+        {
+          "author": "anonymous",
+          "text": "Slow position changes became automatic. I sit for 30 seconds before standing, stand for 30 seconds before walking. This gradual adjustment prevents symptom spikes.",
+          "score": 50
+        },
+        {
+          "author": "anonymous",
+          "text": "Eating smaller, frequent meals instead of large meals reduced post-meal symptom spikes. Large meals apparently shunt blood to digestive system triggering symptoms.",
+          "score": 62
+        },
+        {
+          "author": "anonymous",
+          "text": "Compression stockings (20-30 mmHg) reduced my dizziness significantly. Preventing blood pooling in legs improved my ability to stand and reduced tachycardia episodes.",
+          "score": 12
+        },
+        {
+          "author": "anonymous",
+          "text": "Recumbent exercise bike allowed me to maintain fitness without triggering symptoms. Exercise is important for POTS but standing exercise makes things worse.",
+          "score": 45
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_067",
+      "subreddit": "ChronicIllness",
+      "title": "What helps with POTS orthostatic intolerance?",
+      "author": "anonymous",
+      "post_text": "My POTS symptoms include rapid heart rate on standing, dizziness, and extreme fatigue. What approaches beyond medication have been most effective for you?",
+      "score": 85,
+      "num_comments": 5,
+      "created_utc": "2024-05",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Recumbent exercise bike allowed me to maintain fitness without triggering symptoms. Exercise is important for POTS but standing exercise makes things worse.",
+          "score": 17
+        },
+        {
+          "author": "anonymous",
+          "text": "Electrolyte drinks throughout the day in addition to water helped maintain fluid balance better than water alone. I drink one electrolyte beverage with each meal.",
+          "score": 46
+        },
+        {
+          "author": "anonymous",
+          "text": "Counter-maneuvers when feeling lightheaded became essential. Crossing legs, squatting, or tensing leg muscles increases blood return to heart and prevents fainting.",
+          "score": 14
+        },
+        {
+          "author": "anonymous",
+          "text": "Increasing salt and fluid intake dramatically helped my POTS. I consume 8-10 grams of salt daily and drink 2-3 liters of water. This alone improved symptoms by about 50 percent.",
+          "score": 73
+        },
+        {
+          "author": "anonymous",
+          "text": "Eating smaller, frequent meals instead of large meals reduced post-meal symptom spikes. Large meals apparently shunt blood to digestive system triggering symptoms.",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_068",
+      "subreddit": "ChronicIllness",
+      "title": "Looking for strategies to increase blood volume with POTS",
+      "author": "anonymous",
+      "post_text": "Recently diagnosed with POTS after years of unexplained symptoms. Learning what helps and what makes things worse. What do you wish you had known earlier?",
+      "score": 65,
+      "num_comments": 5,
+      "created_utc": "2024-10",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Slow position changes became automatic. I sit for 30 seconds before standing, stand for 30 seconds before walking. This gradual adjustment prevents symptom spikes.",
+          "score": 46
+        },
+        {
+          "author": "anonymous",
+          "text": "Recumbent exercise bike allowed me to maintain fitness without triggering symptoms. Exercise is important for POTS but standing exercise makes things worse.",
+          "score": 49
+        },
+        {
+          "author": "anonymous",
+          "text": "Electrolyte drinks throughout the day in addition to water helped maintain fluid balance better than water alone. I drink one electrolyte beverage with each meal.",
+          "score": 69
+        },
+        {
+          "author": "anonymous",
+          "text": "Counter-maneuvers when feeling lightheaded became essential. Crossing legs, squatting, or tensing leg muscles increases blood return to heart and prevents fainting.",
+          "score": 38
+        },
+        {
+          "author": "anonymous",
+          "text": "Increasing salt and fluid intake dramatically helped my POTS. I consume 8-10 grams of salt daily and drink 2-3 liters of water. This alone improved symptoms by about 50 percent.",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_069",
+      "subreddit": "ChronicIllness",
+      "title": "How do you stay active with POTS limitations?",
+      "author": "anonymous",
+      "post_text": "Living with POTS for 2 years. I have learned some management techniques but still struggle. What combination of strategies has been most helpful for you?",
+      "score": 100,
+      "num_comments": 4,
+      "created_utc": "2024-11",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Recumbent exercise bike allowed me to maintain fitness without triggering symptoms. Exercise is important for POTS but standing exercise makes things worse.",
+          "score": 20
+        },
+        {
+          "author": "anonymous",
+          "text": "Compression stockings (20-30 mmHg) reduced my dizziness significantly. Preventing blood pooling in legs improved my ability to stand and reduced tachycardia episodes.",
+          "score": 27
+        },
+        {
+          "author": "anonymous",
+          "text": "Eating smaller, frequent meals instead of large meals reduced post-meal symptom spikes. Large meals apparently shunt blood to digestive system triggering symptoms.",
+          "score": 5
+        },
+        {
+          "author": "anonymous",
+          "text": "Slow position changes became automatic. I sit for 30 seconds before standing, stand for 30 seconds before walking. This gradual adjustment prevents symptom spikes.",
+          "score": 34
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_070",
+      "subreddit": "ChronicIllness",
+      "title": "What lifestyle changes helped your POTS symptoms?",
+      "author": "anonymous",
+      "post_text": "My POTS symptoms vary day to day making it hard to plan activities. How do you manage the unpredictability while maintaining some quality of life?",
+      "score": 133,
+      "num_comments": 5,
+      "created_utc": "2024-05",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Compression stockings (20-30 mmHg) reduced my dizziness significantly. Preventing blood pooling in legs improved my ability to stand and reduced tachycardia episodes.",
+          "score": 70
+        },
+        {
+          "author": "anonymous",
+          "text": "Counter-maneuvers when feeling lightheaded became essential. Crossing legs, squatting, or tensing leg muscles increases blood return to heart and prevents fainting.",
+          "score": 66
+        },
+        {
+          "author": "anonymous",
+          "text": "Increasing salt and fluid intake dramatically helped my POTS. I consume 8-10 grams of salt daily and drink 2-3 liters of water. This alone improved symptoms by about 50 percent.",
+          "score": 27
+        },
+        {
+          "author": "anonymous",
+          "text": "Recumbent exercise bike allowed me to maintain fitness without triggering symptoms. Exercise is important for POTS but standing exercise makes things worse.",
+          "score": 34
+        },
+        {
+          "author": "anonymous",
+          "text": "Electrolyte drinks throughout the day in addition to water helped maintain fluid balance better than water alone. I drink one electrolyte beverage with each meal.",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicpain_071",
+      "subreddit": "ChronicPain",
+      "title": "How do you manage endometriosis pain naturally?",
+      "author": "anonymous",
+      "post_text": "I have endometriosis causing severe pain during periods and sometimes throughout the month. Looking for strategies to manage pain and reduce inflammation.",
+      "score": 34,
+      "num_comments": 5,
+      "created_utc": "2024-12",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Stress management was crucial for my endo. High stress consistently triggered flares. Daily meditation and therapy helped me manage stress better which reduced symptom severity.",
+          "score": 57
+        },
+        {
+          "author": "anonymous",
+          "text": "Gentle yoga focusing on hip openers helped reduce chronic pelvic tension. I do 20 minutes daily. It doesn't eliminate pain but provides some relief.",
+          "score": 61
+        },
+        {
+          "author": "anonymous",
+          "text": "Castor oil packs on abdomen for 30 minutes daily reduced my pain and inflammation. It is messy but effective. I saw improvement after 2 weeks of consistent use.",
+          "score": 10
+        },
+        {
+          "author": "anonymous",
+          "text": "Anti-inflammatory diet eliminating dairy and gluten reduced my baseline pain after 8 weeks. During periods, pain is still present but less severe than before dietary changes.",
+          "score": 50
+        },
+        {
+          "author": "anonymous",
+          "text": "Omega-3 supplements and evening primrose oil helped reduce inflammation. After 3 months of daily use, my baseline pain decreased and periods were less severe.",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicpain_072",
+      "subreddit": "ChronicPain",
+      "title": "What helps during endo flare-ups?",
+      "author": "anonymous",
+      "post_text": "My endometriosis pain is affecting my ability to work and enjoy life. Beyond medical treatments, what lifestyle approaches have helped you manage symptoms?",
+      "score": 66,
+      "num_comments": 5,
+      "created_utc": "2024-08",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Omega-3 supplements and evening primrose oil helped reduce inflammation. After 3 months of daily use, my baseline pain decreased and periods were less severe.",
+          "score": 28
+        },
+        {
+          "author": "anonymous",
+          "text": "Gentle yoga focusing on hip openers helped reduce chronic pelvic tension. I do 20 minutes daily. It doesn't eliminate pain but provides some relief.",
+          "score": 8
+        },
+        {
+          "author": "anonymous",
+          "text": "Anti-inflammatory diet eliminating dairy and gluten reduced my baseline pain after 8 weeks. During periods, pain is still present but less severe than before dietary changes.",
+          "score": 23
+        },
+        {
+          "author": "anonymous",
+          "text": "Heating pad became my constant companion. Heat on abdomen or lower back during pain significantly reduces cramping. I keep heating pads at home, work, and in car.",
+          "score": 43
+        },
+        {
+          "author": "anonymous",
+          "text": "Castor oil packs on abdomen for 30 minutes daily reduced my pain and inflammation. It is messy but effective. I saw improvement after 2 weeks of consistent use.",
+          "score": 21
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicpain_073",
+      "subreddit": "ChronicPain",
+      "title": "Looking for strategies beyond hormonal treatment for endo",
+      "author": "anonymous",
+      "post_text": "Recently diagnosed with endometriosis after years of dismissal. Learning what helps reduce pain and flares. What has made the biggest difference for you?",
+      "score": 23,
+      "num_comments": 4,
+      "created_utc": "2024-05",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Gentle yoga focusing on hip openers helped reduce chronic pelvic tension. I do 20 minutes daily. It doesn't eliminate pain but provides some relief.",
+          "score": 23
+        },
+        {
+          "author": "anonymous",
+          "text": "Anti-inflammatory diet eliminating dairy and gluten reduced my baseline pain after 8 weeks. During periods, pain is still present but less severe than before dietary changes.",
+          "score": 64
+        },
+        {
+          "author": "anonymous",
+          "text": "Acupuncture during the week before my period reduced the severity of period pain. After 3 months of monthly treatments, periods became more manageable.",
+          "score": 46
+        },
+        {
+          "author": "anonymous",
+          "text": "Heating pad became my constant companion. Heat on abdomen or lower back during pain significantly reduces cramping. I keep heating pads at home, work, and in car.",
+          "score": 45
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicpain_074",
+      "subreddit": "ChronicPain",
+      "title": "What diet changes helped your endometriosis?",
+      "author": "anonymous",
+      "post_text": "Living with endo for 5 years. I have tried various treatments. Interested in what complementary approaches have improved your pain and quality of life.",
+      "score": 137,
+      "num_comments": 5,
+      "created_utc": "2024-07",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Castor oil packs on abdomen for 30 minutes daily reduced my pain and inflammation. It is messy but effective. I saw improvement after 2 weeks of consistent use.",
+          "score": 30
+        },
+        {
+          "author": "anonymous",
+          "text": "Anti-inflammatory diet eliminating dairy and gluten reduced my baseline pain after 8 weeks. During periods, pain is still present but less severe than before dietary changes.",
+          "score": 25
+        },
+        {
+          "author": "anonymous",
+          "text": "Pelvic floor physical therapy made an unexpected difference. Many women with endo develop pelvic floor dysfunction. Treating this reduced my pain significantly.",
+          "score": 25
+        },
+        {
+          "author": "anonymous",
+          "text": "Acupuncture during the week before my period reduced the severity of period pain. After 3 months of monthly treatments, periods became more manageable.",
+          "score": 74
+        },
+        {
+          "author": "anonymous",
+          "text": "Omega-3 supplements and evening primrose oil helped reduce inflammation. After 3 months of daily use, my baseline pain decreased and periods were less severe.",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicpain_075",
+      "subreddit": "ChronicPain",
+      "title": "How do you maintain quality of life with endometriosis?",
+      "author": "anonymous",
+      "post_text": "My endometriosis causes chronic pelvic pain, not just during periods. How do you manage constant pain while maintaining function and sanity?",
+      "score": 45,
+      "num_comments": 5,
+      "created_utc": "2024-07",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Acupuncture during the week before my period reduced the severity of period pain. After 3 months of monthly treatments, periods became more manageable.",
+          "score": 28
+        },
+        {
+          "author": "anonymous",
+          "text": "Anti-inflammatory diet eliminating dairy and gluten reduced my baseline pain after 8 weeks. During periods, pain is still present but less severe than before dietary changes.",
+          "score": 9
+        },
+        {
+          "author": "anonymous",
+          "text": "Omega-3 supplements and evening primrose oil helped reduce inflammation. After 3 months of daily use, my baseline pain decreased and periods were less severe.",
+          "score": 56
+        },
+        {
+          "author": "anonymous",
+          "text": "Castor oil packs on abdomen for 30 minutes daily reduced my pain and inflammation. It is messy but effective. I saw improvement after 2 weeks of consistent use.",
+          "score": 19
+        },
+        {
+          "author": "anonymous",
+          "text": "Stress management was crucial for my endo. High stress consistently triggered flares. Daily meditation and therapy helped me manage stress better which reduced symptom severity.",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_076",
+      "subreddit": "ChronicIllness",
+      "title": "How do you prevent recurrent UTIs?",
+      "author": "anonymous",
+      "post_text": "I get UTIs frequently despite following standard prevention advice. Looking for additional strategies that have helped others reduce recurrence.",
+      "score": 75,
+      "num_comments": 5,
+      "created_utc": "2024-08",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Drinking 8-10 glasses of water daily and urinating frequently, not holding it, dramatically reduced my infections. Proper hydration flushes bacteria before infections start.",
+          "score": 25
+        },
+        {
+          "author": "anonymous",
+          "text": "Vitamin C supplement (500mg daily) acidifies urine making it less hospitable to bacteria. Combined with other strategies, this helped reduce my infection rate.",
+          "score": 33
+        },
+        {
+          "author": "anonymous",
+          "text": "Cranberry supplements (not juice - too much sugar) helped prevent recurrence. I take 500mg daily. After 6 months, my UTI frequency decreased significantly.",
+          "score": 22
+        },
+        {
+          "author": "anonymous",
+          "text": "Avoiding irritants like bubble baths, harsh soaps, and tight clothing reduced bladder inflammation. My chronic discomfort decreased when I eliminated these triggers.",
+          "score": 42
+        },
+        {
+          "author": "anonymous",
+          "text": "Pelvic floor physical therapy addressed underlying muscle tension contributing to symptoms. Treating muscle dysfunction reduced my chronic bladder discomfort significantly.",
+          "score": 18
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_077",
+      "subreddit": "ChronicIllness",
+      "title": "What has helped with chronic UTI symptoms?",
+      "author": "anonymous",
+      "post_text": "My chronic UTI symptoms persist even after antibiotics. Bladder discomfort is constant. What has helped you find relief and prevent new infections?",
+      "score": 16,
+      "num_comments": 5,
+      "created_utc": "2024-06",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Pelvic floor physical therapy addressed underlying muscle tension contributing to symptoms. Treating muscle dysfunction reduced my chronic bladder discomfort significantly.",
+          "score": 48
+        },
+        {
+          "author": "anonymous",
+          "text": "Cranberry supplements (not juice - too much sugar) helped prevent recurrence. I take 500mg daily. After 6 months, my UTI frequency decreased significantly.",
+          "score": 73
+        },
+        {
+          "author": "anonymous",
+          "text": "Probiotic supplements with specific Lactobacillus strains for urinary health helped maintain healthy bacterial balance. After 3 months, infections decreased notably.",
+          "score": 52
+        },
+        {
+          "author": "anonymous",
+          "text": "Drinking 8-10 glasses of water daily and urinating frequently, not holding it, dramatically reduced my infections. Proper hydration flushes bacteria before infections start.",
+          "score": 42
+        },
+        {
+          "author": "anonymous",
+          "text": "D-mannose supplement (2000mg daily) reduced my UTI frequency from monthly to maybe twice yearly. It prevents bacteria from adhering to bladder wall. Life-changing for me.",
+          "score": 10
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_078",
+      "subreddit": "ChronicIllness",
+      "title": "Looking for strategies to reduce UTI frequency",
+      "author": "anonymous",
+      "post_text": "Recently diagnosed with recurrent UTIs. Want to prevent future infections naturally if possible. What prevention strategies have been most effective for you?",
+      "score": 20,
+      "num_comments": 4,
+      "created_utc": "2024-02",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Cranberry supplements (not juice - too much sugar) helped prevent recurrence. I take 500mg daily. After 6 months, my UTI frequency decreased significantly.",
+          "score": 73
+        },
+        {
+          "author": "anonymous",
+          "text": "D-mannose supplement (2000mg daily) reduced my UTI frequency from monthly to maybe twice yearly. It prevents bacteria from adhering to bladder wall. Life-changing for me.",
+          "score": 63
+        },
+        {
+          "author": "anonymous",
+          "text": "Avoiding irritants like bubble baths, harsh soaps, and tight clothing reduced bladder inflammation. My chronic discomfort decreased when I eliminated these triggers.",
+          "score": 74
+        },
+        {
+          "author": "anonymous",
+          "text": "Drinking 8-10 glasses of water daily and urinating frequently, not holding it, dramatically reduced my infections. Proper hydration flushes bacteria before infections start.",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_079",
+      "subreddit": "ChronicIllness",
+      "title": "What supplements prevent UTIs?",
+      "author": "anonymous",
+      "post_text": "Living with chronic UTI issues for 2 years. Standard medical advice hasn't fully resolved the problem. What less common approaches have helped you?",
+      "score": 148,
+      "num_comments": 4,
+      "created_utc": "2024-09",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Cranberry supplements (not juice - too much sugar) helped prevent recurrence. I take 500mg daily. After 6 months, my UTI frequency decreased significantly.",
+          "score": 34
+        },
+        {
+          "author": "anonymous",
+          "text": "Probiotic supplements with specific Lactobacillus strains for urinary health helped maintain healthy bacterial balance. After 3 months, infections decreased notably.",
+          "score": 73
+        },
+        {
+          "author": "anonymous",
+          "text": "Pelvic floor physical therapy addressed underlying muscle tension contributing to symptoms. Treating muscle dysfunction reduced my chronic bladder discomfort significantly.",
+          "score": 60
+        },
+        {
+          "author": "anonymous",
+          "text": "Avoiding irritants like bubble baths, harsh soaps, and tight clothing reduced bladder inflammation. My chronic discomfort decreased when I eliminated these triggers.",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "thread_id": "chronicillness_080",
+      "subreddit": "ChronicIllness",
+      "title": "How do you manage chronic bladder discomfort?",
+      "author": "anonymous",
+      "post_text": "My frequent UTIs are affecting my quality of life. How have you managed to reduce infection frequency and manage symptoms between episodes?",
+      "score": 27,
+      "num_comments": 5,
+      "created_utc": "2024-03",
+      "comments": [
+        {
+          "author": "anonymous",
+          "text": "Vitamin C supplement (500mg daily) acidifies urine making it less hospitable to bacteria. Combined with other strategies, this helped reduce my infection rate.",
+          "score": 21
+        },
+        {
+          "author": "anonymous",
+          "text": "Drinking 8-10 glasses of water daily and urinating frequently, not holding it, dramatically reduced my infections. Proper hydration flushes bacteria before infections start.",
+          "score": 48
+        },
+        {
+          "author": "anonymous",
+          "text": "Wiping front to back and urinating immediately after sex prevented most UTIs. These simple hygiene practices made a bigger difference than I expected.",
+          "score": 37
+        },
+        {
+          "author": "anonymous",
+          "text": "D-mannose supplement (2000mg daily) reduced my UTI frequency from monthly to maybe twice yearly. It prevents bacteria from adhering to bladder wall. Life-changing for me.",
+          "score": 28
+        },
+        {
+          "author": "anonymous",
+          "text": "Probiotic supplements with specific Lactobacillus strains for urinary health helped maintain healthy bacterial balance. After 3 months, infections decreased notably.",
+          "score": 57
+        }
+      ]
+    }
+  ]
+}
